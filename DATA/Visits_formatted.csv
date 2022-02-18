@@ -1,0 +1,1594 @@
+"","Array","Species","ID","Sequence","Session","Trial"
+"1","Zarray","Japanese macaque","Asaco","134562",1,1
+"2","Zarray","Japanese macaque","Asaco","643215",2,2
+"3","Zarray","Japanese macaque","Asaco","134652",2,3
+"4","Zarray","Japanese macaque","Asaco","134652",2,4
+"5","Zarray","Japanese macaque","Asaco","564321",3,5
+"6","Zarray","Japanese macaque","Asaco","564321",4,6
+"7","Zarray","Japanese macaque","Asaco","123456",4,7
+"8","Zarray","Japanese macaque","Asaco","123456",5,8
+"9","Zarray","Japanese macaque","Asaco","564321",6,9
+"10","Zarray","Japanese macaque","Asaco","123456",6,10
+"11","Zarray","Japanese macaque","Asaco","123456",7,11
+"12","Zarray","Japanese macaque","BrightEyes","134652",1,1
+"13","Zarray","Japanese macaque","BrightEyes","134562",2,2
+"14","Zarray","Japanese macaque","BrightEyes","213465",3,3
+"15","Zarray","Japanese macaque","BrightEyes","234561",3,4
+"16","Zarray","Japanese macaque","BrightEyes","134652",3,5
+"17","Zarray","Japanese macaque","BrightEyes","432156",4,6
+"18","Zarray","Japanese macaque","BrightEyes","643125",5,7
+"19","Zarray","Japanese macaque","BrightEyes","214365",5,8
+"20","Zarray","Japanese macaque","BrightEyes","234561",6,9
+"21","Zarray","Japanese macaque","BrightEyes","134652",6,10
+"22","Zarray","Japanese macaque","BrightEyes","321456",6,11
+"23","Zarray","Japanese macaque","BrightEyes","213465",7,12
+"24","Zarray","Japanese macaque","BrightEyes","643125",8,13
+"25","Zarray","Japanese macaque","Propeller","234651",1,1
+"26","Zarray","Japanese macaque","Propeller","123465",1,2
+"27","Zarray","Japanese macaque","Propeller","123465",1,3
+"28","Zarray","Japanese macaque","Propeller","123465",1,4
+"29","Zarray","Japanese macaque","Propeller","564321",1,5
+"30","Zarray","Japanese macaque","Propeller","123465",2,6
+"31","Zarray","Japanese macaque","Propeller","456321",3,7
+"32","Zarray","Japanese macaque","Propeller","132465",3,8
+"33","Zarray","Japanese macaque","Propeller","132465",3,9
+"34","Zarray","Japanese macaque","Propeller","123465",3,10
+"35","Zarray","Japanese macaque","Propeller","432156",3,11
+"36","Zarray","Japanese macaque","Propeller","123465",3,12
+"37","Zarray","Japanese macaque","Propeller","543261",3,13
+"38","Zarray","Japanese macaque","Propeller","213456",4,14
+"39","Zarray","Japanese macaque","Propeller","564321",5,15
+"40","Zarray","Japanese macaque","Propeller","123465",5,16
+"41","Zarray","Japanese macaque","Propeller","123465",5,17
+"42","Zarray","Japanese macaque","Propeller","546321",5,18
+"43","Zarray","Japanese macaque","Rudy","654321",1,1
+"44","Zarray","Japanese macaque","Rudy","654321",1,2
+"45","Zarray","Japanese macaque","Rudy","654321",1,3
+"46","Zarray","Japanese macaque","Rudy","645312",1,4
+"47","Zarray","Japanese macaque","Rudy","643215",1,5
+"48","Zarray","Japanese macaque","Rudy","654321",1,6
+"49","Zarray","Japanese macaque","Rudy","654312",1,7
+"50","Zarray","Japanese macaque","Rudy","645321",1,8
+"51","Zarray","Japanese macaque","Rudy","643215",1,9
+"52","Zarray","Japanese macaque","Rudy","654321",1,10
+"53","Zarray","Japanese macaque","Rudy","654321",1,11
+"54","Zarray","Japanese macaque","Rudy","654321",1,12
+"55","Zarray","Japanese macaque","Rudy","234156",2,13
+"56","Zarray","Japanese macaque","Rudy","643215",2,14
+"57","Zarray","Japanese macaque","Rudy","234156",2,15
+"58","Zarray","Japanese macaque","Rudy","643215",2,16
+"59","Zarray","Japanese macaque","Rudy","643215",2,17
+"60","Zarray","Japanese macaque","Rudy","654321",2,18
+"61","Zarray","Japanese macaque","Rudy","213456",2,19
+"62","Zarray","Japanese macaque","Rudy","654321",2,20
+"63","Zarray","Japanese macaque","Rudy","643215",3,21
+"64","Zarray","Japanese macaque","Rudy","234561",4,22
+"65","Zarray","Japanese macaque","Rudy","643215",4,23
+"66","Zarray","Japanese macaque","Rudy","654321",4,24
+"67","Zarray","Japanese macaque","Rudy","643215",4,25
+"68","Zarray","Japanese macaque","Rudy","643215",4,26
+"69","Zarray","Japanese macaque","Rudy","645321",4,27
+"70","Zarray","Japanese macaque","Rudy","645321",4,28
+"71","Zarray","Japanese macaque","Rudy","654321",4,29
+"72","Zarray","Japanese macaque","Rudy","654321",4,30
+"73","Zarray","Japanese macaque","Rudy","643215",4,31
+"74","Zarray","Japanese macaque","ScarLeftForearm","234651",1,1
+"75","Zarray","Japanese macaque","ScarLeftForearm","431265",2,2
+"76","Zarray","Japanese macaque","ScarLeftForearm","645312",3,3
+"77","Zarray","Japanese macaque","ScarLeftForearm","213465",4,4
+"78","Zarray","Japanese macaque","ScarLeftForearm","532146",5,5
+"79","Zarray","Japanese macaque","ScarLeftForearm","123465",5,6
+"80","Zarray","Japanese macaque","ScarLeftForearm","123465",5,7
+"81","Zarray","Japanese macaque","ScarLeftForearm","543126",6,8
+"82","Zarray","Japanese macaque","ScarLeftForearm","546312",6,9
+"83","Zarray","Japanese macaque","ScarLeftForearm","321456",7,10
+"84","Zarray","Japanese macaque","Fuco","654312",1,1
+"85","Zarray","Japanese macaque","Fuco","654123",1,2
+"86","Zarray","Japanese macaque","Fuco","321456",1,3
+"87","Zarray","Japanese macaque","Fuco","654132",1,4
+"88","Zarray","Japanese macaque","Fuco","346512",2,5
+"89","Zarray","Japanese macaque","Fuco","213465",3,6
+"90","Zarray","Japanese macaque","Fuco","123456",4,7
+"91","Zarray","Japanese macaque","Fuco","123465",5,8
+"92","Zarray","Japanese macaque","Fuco","123456",6,9
+"93","Zarray","Japanese macaque","Kii","643215",1,1
+"94","Zarray","Japanese macaque","Kii","632145",1,2
+"95","Zarray","Japanese macaque","Kii","513462",2,3
+"96","Zarray","Japanese macaque","Kii","132465",2,4
+"97","Zarray","Japanese macaque","Kii","123465",3,5
+"98","Zarray","Japanese macaque","Manta","654321",1,1
+"99","Zarray","Japanese macaque","Manta","643125",2,2
+"100","Zarray","Japanese macaque","Manta","234561",3,3
+"101","Zarray","Japanese macaque","Manta","564321",4,4
+"102","Zarray","Japanese macaque","Manta","654312",5,5
+"103","Zarray","Japanese macaque","Patchy","654321",1,1
+"104","Zarray","Japanese macaque","Patchy","132456",2,2
+"105","Zarray","Japanese macaque","Patchy","134652",3,3
+"106","Zarray","Japanese macaque","Patchy","123456",4,4
+"107","Zarray","Japanese macaque","Patchy","543216",5,5
+"108","Zarray","Japanese macaque","Patchy","213465",6,6
+"109","Zarray","Japanese macaque","Patchy","132456",6,7
+"110","Zarray","Japanese macaque","Yochan","654312",1,1
+"111","Zarray","Japanese macaque","Yochan","234561",1,2
+"112","Zarray","Japanese macaque","Yochan","123465",2,3
+"113","Zarray","Japanese macaque","Yochan","123465",2,4
+"114","Zarray","Japanese macaque","Yochan","123465",2,5
+"115","Zarray","Japanese macaque","Yochan","123465",3,6
+"116","DT","Vervet","CL","145632",1,1
+"117","DT","Vervet","CL","214356",1,2
+"118","DT","Vervet","JK","542163",1,1
+"119","DT","Vervet","JK","5412643",2,2
+"120","DT","Vervet","JK","216543",3,3
+"121","DT","Vervet","JK","543216",3,4
+"122","DT","Vervet","JK","341256",4,5
+"123","DT","Vervet","JK","543216",5,6
+"124","DT","Vervet","JK","543216",6,7
+"125","DT","Vervet","JK","543216",6,8
+"126","DT","Vervet","JK","543216",6,9
+"127","DT","Vervet","JK","543126",7,10
+"128","DT","Vervet","JK","412356",8,11
+"129","DT","Vervet","JK","543216",9,12
+"130","DT","Vervet","JK","543216",10,13
+"131","DT","Vervet","JK","5412643",11,14
+"132","DT","Vervet","JK","341265",11,15
+"133","DT","Vervet","JK","5412653",11,16
+"134","DT","Vervet","JK","541236",12,17
+"135","DT","Vervet","JK","341265",12,18
+"136","DT","Vervet","JK","541236",12,19
+"137","DT","Vervet","JK","345612",12,20
+"138","DT","Vervet","JK","345612",13,21
+"139","DT","Vervet","JK","541263",14,22
+"140","DT","Vervet","JK","412653",15,23
+"141","DT","Vervet","JK","541236",16,24
+"142","DT","Vervet","JK","432165",16,25
+"143","DT","Vervet","JK","541263",17,26
+"144","DT","Vervet","JK","451236",17,27
+"145","DT","Vervet","JK","341652",17,28
+"146","DT","Vervet","JK","341265",17,29
+"147","DT","Vervet","JK","412653",17,30
+"148","DT","Vervet","JK","345126",18,31
+"149","DT","Vervet","JK","543126",18,32
+"150","DT","Vervet","JK","341265",18,33
+"151","DT","Vervet","JK","543126",18,34
+"152","DT","Vervet","JK","5412643",19,35
+"153","DT","Vervet","JK","541236",19,36
+"154","DT","Vervet","JK","543126",19,37
+"155","DT","Vervet","JK","543126",20,38
+"156","DT","Vervet","JK","612435",20,39
+"157","DT","Vervet","JK","543126",21,40
+"158","DT","Vervet","JK","541263",21,41
+"159","DT","Vervet","JK","543126",21,42
+"160","DT","Vervet","JK","5412346",21,43
+"161","DT","Vervet","JK","541263",22,44
+"162","DT","Vervet","JK","341265",22,45
+"163","DT","Vervet","JK","543216",23,46
+"164","DT","Vervet","JK","543216",23,47
+"165","DT","Vervet","JK","543162",23,48
+"166","DT","Vervet","JK","345126",23,49
+"167","DT","Vervet","JK","543216",24,50
+"168","DT","Vervet","JK","543216",24,51
+"169","DT","Vervet","JK","541263",24,52
+"170","DT","Vervet","JK","216543",25,53
+"171","DT","Vervet","JK","543216",25,54
+"172","DT","Vervet","JK","612435",26,55
+"173","DT","Vervet","JK","543126",27,56
+"174","DT","Vervet","JK","54216",27,57
+"175","DT","Vervet","JK","543126",27,58
+"176","DT","Vervet","JK","654123",27,59
+"177","DT","Vervet","JK","543216",28,60
+"178","DT","Vervet","JK","345612",29,61
+"179","DT","Vervet","JK","341265",29,62
+"180","DT","Vervet","JK","321456",30,63
+"181","DT","Vervet","JK","543216",30,64
+"182","DT","Vervet","JK","541263",30,65
+"183","DT","Vervet","JK","412563",30,66
+"184","DT","Vervet","JK","541263",30,67
+"185","DT","Vervet","JK","543126",31,68
+"186","DT","Vervet","JK","541236",31,69
+"187","DT","Vervet","JK","543216",31,70
+"188","DT","Vervet","JK","543216",31,71
+"189","DT","Vervet","JK","543216",32,72
+"190","DT","Vervet","JK","541263",33,73
+"191","DT","Vervet","JK","543216",33,74
+"192","DT","Vervet","JK","543216",33,75
+"193","DT","Vervet","JK","543216",33,76
+"194","DT","Vervet","JK","5412653",33,77
+"195","DT","Vervet","JK","345612",33,78
+"196","DT","Vervet","JK","216543",34,79
+"197","DT","Vervet","JK","341265",34,80
+"198","DT","Vervet","JK","341265",34,81
+"199","DT","Vervet","JK","341265",34,82
+"200","DT","Vervet","JK","341265",34,83
+"201","DT","Vervet","JK","541263",35,84
+"202","DT","Vervet","JK","543126",35,85
+"203","DT","Vervet","JK","345126",36,86
+"204","DT","Vervet","JK","541236",37,87
+"205","DT","Vervet","JK","543216",37,88
+"206","DT","Vervet","JK","541236",37,89
+"207","DT","Vervet","JK","412563",38,90
+"208","DT","Vervet","JK","541263",38,91
+"209","DT","Vervet","JK","541236",38,92
+"210","DT","Vervet","JK","541236",38,93
+"211","DT","Vervet","JK","541236",39,94
+"212","DT","Vervet","JK","341256",39,95
+"213","DT","Vervet","JK","412356",39,96
+"214","DT","Vervet","JK","541263",40,97
+"215","DT","Vervet","JK","54216",40,98
+"216","DT","Vervet","JK","541236",40,99
+"217","DT","Vervet","JK","216543",41,100
+"218","DT","Vervet","JK","614532",41,101
+"219","DT","Vervet","JK","614325",41,102
+"220","DT","Vervet","JK","34126",41,103
+"221","DT","Vervet","JK","541236",42,104
+"222","DT","Vervet","JK","345126",42,105
+"223","DT","Vervet","JK","341256",42,106
+"224","DT","Vervet","JK","541236",42,107
+"225","DT","Vervet","JK","543216",43,108
+"226","DT","Vervet","JK","542143",43,109
+"227","DT","Vervet","JK","541263",43,110
+"228","DT","Vervet","JK","51235",43,111
+"229","DT","Vervet","JK","541263",43,112
+"230","DT","Vervet","JK","541236",43,113
+"231","DT","Vervet","JK","341256",44,114
+"232","DT","Vervet","JK","341256",44,115
+"233","DT","Vervet","JK","341265",44,116
+"234","DT","Vervet","JK","541263",44,117
+"235","DT","Vervet","JK","341265",44,118
+"236","DT","Vervet","JK","341256",44,119
+"237","DT","Vervet","JK","214563",44,120
+"238","DT","Vervet","LP","512436",1,1
+"239","DT","Vervet","LP","541623",2,2
+"240","DT","Vervet","LP","6124543",3,3
+"241","DT","Vervet","MA","214356",1,1
+"242","DT","Vervet","MA","214563",2,2
+"243","DT","Vervet","NM","341256",1,1
+"244","DT","Vervet","NM","214356",2,2
+"245","DT","Vervet","NM","543126",3,3
+"246","DT","Vervet","NM","543216",3,4
+"247","DT","Vervet","NM","561243",4,5
+"248","DT","Vervet","NM","216543",4,6
+"249","DT","Vervet","NM","341256",5,7
+"250","DT","Vervet","NM","543216",6,8
+"251","DT","Vervet","NM","612453",6,9
+"252","DT","Vervet","NM","341265",7,10
+"253","DT","Vervet","NM","124536",7,11
+"254","DT","Vervet","NM","543126",8,12
+"255","DT","Vervet","NM","345612",8,13
+"256","DT","Vervet","NM","5434126",9,14
+"257","DT","Vervet","NM","543216",10,15
+"258","DT","Vervet","NM","543216",10,16
+"259","DT","Vervet","NM","543126",10,17
+"260","DT","Vervet","NM","561243",11,18
+"261","DT","Vervet","NM","543126",11,19
+"262","DT","Vervet","NM","345126",12,20
+"263","DT","Vervet","NM","345126",12,21
+"264","DT","Vervet","NM","216543",12,22
+"265","DT","Vervet","NM","216543",12,23
+"266","DT","Vervet","NM","543216",13,24
+"267","DT","Vervet","NM","124356",13,25
+"268","DT","Vervet","NM","612453",13,26
+"269","DT","Vervet","NM","341265",14,27
+"270","DT","Vervet","NM","543126",15,28
+"271","DT","Vervet","NM","612435",15,29
+"272","DT","Vervet","NM","543216",16,30
+"273","DT","Vervet","NM","543216",16,31
+"274","DT","Vervet","NM","612453",16,32
+"275","DT","Vervet","NM","341265",17,33
+"276","DT","Vervet","NM","612453",18,34
+"277","DT","Vervet","NM","543126",18,35
+"278","DT","Vervet","NM","543216",18,36
+"279","DT","Vervet","NM","543126",19,37
+"280","DT","Vervet","NM","543126",19,38
+"281","DT","Vervet","NM","543126",19,39
+"282","DT","Vervet","NM","543216",19,40
+"283","DT","Vervet","NM","543216",20,41
+"284","DT","Vervet","NM","543216",20,42
+"285","DT","Vervet","NM","543216",20,43
+"286","DT","Vervet","NM","543216",21,44
+"287","DT","Vervet","NM","543216",21,45
+"288","DT","Vervet","NM","541263",21,46
+"289","DT","Vervet","NM","543126",21,47
+"290","DT","Vervet","NM","54321",21,48
+"291","DT","Vervet","NM","54321",21,49
+"292","DT","Vervet","NM","54123",21,50
+"293","DT","Vervet","NM","345612",22,51
+"294","DT","Vervet","NM","543216",22,52
+"295","DT","Vervet","NM","543126",23,53
+"296","DT","Vervet","NM","543216",23,54
+"297","DT","Vervet","NM","345126",24,55
+"298","DT","Vervet","NM","612453",24,56
+"299","DT","Vervet","NM","5434126",25,57
+"300","DT","Vervet","NM","612435",25,58
+"301","DT","Vervet","NM","654312",25,59
+"302","DT","Vervet","NM","543126",25,60
+"303","DT","Vervet","NM","612435",25,61
+"304","DT","Vervet","NM","345612",26,62
+"305","DT","Vervet","NM","345612",26,63
+"306","DT","Vervet","NM","345126",26,64
+"307","DT","Vervet","NM","345126",26,65
+"308","DT","Vervet","NM","345612",26,66
+"309","DT","Vervet","NM","341256",26,67
+"310","DT","Vervet","NM","543216",27,68
+"311","DT","Vervet","NM","543216",27,69
+"312","DT","Vervet","NM","543216",27,70
+"313","DT","Vervet","NM","561243",27,71
+"314","DT","Vervet","NM","543126",27,72
+"315","DT","Vervet","NM","432165",28,73
+"316","DT","Vervet","NM","543126",28,74
+"317","DT","Vervet","NM","543216",28,75
+"318","DT","Vervet","NM","543126",28,76
+"319","DT","Vervet","NM","543216",29,77
+"320","DT","Vervet","NM","345126",29,78
+"321","DT","Vervet","NM","543216",30,79
+"322","DT","Vervet","NM","543126",30,80
+"323","DT","Vervet","NM","543216",30,81
+"324","DT","Vervet","NM","543216",30,82
+"325","DT","Vervet","NM","543216",30,83
+"326","DT","Vervet","NM","543216",30,84
+"327","DT","Vervet","NM","543126",31,85
+"328","DT","Vervet","NM","543216",31,86
+"329","DT","Vervet","NM","543216",31,87
+"330","DT","Vervet","NM","543216",31,88
+"331","DT","Vervet","NM","345612",32,89
+"332","DT","Vervet","NM","12456",33,90
+"333","DT","Vervet","NM","12456",33,91
+"334","DT","Vervet","NM","61245",33,92
+"335","DT","Vervet","NM","612435",33,93
+"336","DT","Vervet","NM","543216",34,94
+"337","DT","Vervet","NM","216543",35,95
+"338","DT","Vervet","NM","543216",36,96
+"339","DT","Vervet","NM","543216",36,97
+"340","DT","Vervet","NM","543216",36,98
+"341","DT","Vervet","NM","124356",36,99
+"342","DT","Vervet","NM","543126",36,100
+"343","DT","Vervet","NM","543216",36,101
+"344","DT","Vervet","NM","543216",37,102
+"345","DT","Vervet","NM","543126",37,103
+"346","DT","Vervet","NM","543216",37,104
+"347","DT","Vervet","NM","543216",37,105
+"348","DT","Vervet","NM","543216",38,106
+"349","DT","Vervet","NM","543216",39,107
+"350","DT","Vervet","NM","543216",39,108
+"351","DT","Vervet","NM","543216",39,109
+"352","DT","Vervet","NM","541236",40,110
+"353","DT","Vervet","NM","543216",40,111
+"354","DT","Vervet","NM","543216",40,112
+"355","DT","Vervet","NM","214563",41,113
+"356","DT","Vervet","NM","543216",42,114
+"357","DT","Vervet","NM","543216",42,115
+"358","DT","Vervet","NM","543216",42,116
+"359","DT","Vervet","NM","543216",43,117
+"360","DT","Vervet","NM","543216",43,118
+"361","DT","Vervet","NM","543216",43,119
+"362","DT","Vervet","NM","543216",43,120
+"363","DT","Vervet","NM","543216",43,121
+"364","DT","Vervet","NM","543216",43,122
+"365","DT","Vervet","NM","345126",44,123
+"366","DT","Vervet","NM","453216",44,124
+"367","DT","Vervet","NM","435126",44,125
+"368","DT","Vervet","NM","543126",44,126
+"369","DT","Vervet","NM","124563",44,127
+"370","DT","Vervet","NM","456123",44,128
+"371","DT","Vervet","NM","216543",44,129
+"372","DT","Vervet","NM","345126",44,130
+"373","DT","Vervet","NM","435126",45,131
+"374","DT","Vervet","NM","543216",45,132
+"375","DT","Vervet","NM","543126",45,133
+"376","DT","Vervet","NM","543126",45,134
+"377","DT","Vervet","NM","543126",46,135
+"378","DT","Vervet","NM","543216",46,136
+"379","DT","Vervet","NM","543216",46,137
+"380","DT","Vervet","NM","543216",46,138
+"381","DT","Vervet","NM","543216",46,139
+"382","DT","Vervet","NM","543126",46,140
+"383","DT","Vervet","NM","543216",46,141
+"384","DT","Vervet","NM","5412346",46,142
+"385","DT","Vervet","NM","543216",46,143
+"386","DT","Vervet","NM","543126",46,144
+"387","DT","Vervet","NM","543126",46,145
+"388","DT","Vervet","NM","341265",47,146
+"389","DT","Vervet","NM","612435",47,147
+"390","DT","Vervet","NM","124563",47,148
+"391","DT","Vervet","NM","612453",47,149
+"392","DT","Vervet","NM","612435",47,150
+"393","DT","Vervet","NM","612453",47,151
+"394","DT","Vervet","NM","543126",48,152
+"395","DT","Vervet","NM","543126",49,153
+"396","DT","Vervet","NM","543126",49,154
+"397","DT","Vervet","OT","543216",1,1
+"398","DT","Vervet","OT","541236",2,2
+"399","DT","Vervet","PT","54216",1,1
+"400","DT","Vervet","PT","5214",1,2
+"401","DT","Vervet","TB","345126",1,1
+"402","DT","Vervet","TB","543216",2,2
+"403","DT","Vervet","TS","456123",1,1
+"404","DT","Vervet","TS","543216",2,2
+"405","DT","Vervet","TS","34512",2,3
+"406","DT","Vervet","TS","612453",3,4
+"407","DT","Vervet","TS","261453",4,5
+"408","DT","Vervet","TS","456123",5,6
+"409","DT","Vervet","TS","214563",5,7
+"410","DT","Vervet","TS","124356",6,8
+"411","DT","Vervet","TS","124563",6,9
+"412","DT","Vervet","TS","612453",7,10
+"413","DT","Vervet","TS","543216",7,11
+"414","DT","Vervet","TS","41652",7,12
+"415","DT","Vervet","TS","612435",7,13
+"416","DT","Vervet","TS","432165",7,14
+"417","Pentagon","Vervet","CL","5234",1,1
+"418","Pentagon","Vervet","GR","54321",1,1
+"419","Pentagon","Vervet","JK","54321",1,1
+"420","Pentagon","Vervet","JK","54321",1,2
+"421","Pentagon","Vervet","JK","54321",1,3
+"422","Pentagon","Vervet","JK","54321",1,4
+"423","Pentagon","Vervet","JK","32154",2,5
+"424","Pentagon","Vervet","JK","32154",2,6
+"425","Pentagon","Vervet","JK","34512",2,7
+"426","Pentagon","Vervet","JK","32154",2,8
+"427","Pentagon","Vervet","JK","32154",2,9
+"428","Pentagon","Vervet","JK","32154",2,10
+"429","Pentagon","Vervet","JK","51234",2,11
+"430","Pentagon","Vervet","JK","32154",2,12
+"431","Pentagon","Vervet","JK","51234",2,13
+"432","Pentagon","Vervet","JK","12345",3,14
+"433","Pentagon","Vervet","JK","54321",3,15
+"434","Pentagon","Vervet","JK","54321",3,16
+"435","Pentagon","Vervet","JK","54321",3,17
+"436","Pentagon","Vervet","JK","54321",3,18
+"437","Pentagon","Vervet","JK","23154",4,19
+"438","Pentagon","Vervet","JK","45123",4,20
+"439","Pentagon","Vervet","JK","51234",5,21
+"440","Pentagon","Vervet","JK","54321",5,22
+"441","Pentagon","Vervet","JK","54321",5,23
+"442","Pentagon","Vervet","JK","43215",5,24
+"443","Pentagon","Vervet","JK","54321",6,25
+"444","Pentagon","Vervet","JK","51234",6,26
+"445","Pentagon","Vervet","JK","12345",6,27
+"446","Pentagon","Vervet","JK","54321",6,28
+"447","Pentagon","Vervet","JK","12345",6,29
+"448","Pentagon","Vervet","JK","54321",6,30
+"449","Pentagon","Vervet","JK","51234",6,31
+"450","Pentagon","Vervet","JK","51234",6,32
+"451","Pentagon","Vervet","JK","54321",6,33
+"452","Pentagon","Vervet","JK","45123",6,34
+"453","Pentagon","Vervet","JK","51234",6,35
+"454","Pentagon","Vervet","JK","51234",6,36
+"455","Pentagon","Vervet","JK","54321",6,37
+"456","Pentagon","Vervet","JK","12345",6,38
+"457","Pentagon","Vervet","JK","54321",6,39
+"458","Pentagon","Vervet","JK","1532",6,40
+"459","Pentagon","Vervet","JK","15432",6,41
+"460","Pentagon","Vervet","JK","51234",7,42
+"461","Pentagon","Vervet","JK","41235",7,43
+"462","Pentagon","Vervet","JK","41532",7,44
+"463","Pentagon","Vervet","NM","43215",1,1
+"464","Pentagon","Vervet","NM","51234",1,2
+"465","Pentagon","Vervet","NM","51234",1,3
+"466","Pentagon","Vervet","NM","51234",1,4
+"467","Pentagon","Vervet","NM","51234",1,5
+"468","Pentagon","Vervet","NM","54321",1,6
+"469","Pentagon","Vervet","NM","54321",1,7
+"470","Pentagon","Vervet","NM","54321",1,8
+"471","Pentagon","Vervet","NM","54321",1,9
+"472","Pentagon","Vervet","NM","43215",1,10
+"473","Pentagon","Vervet","NM","51234",2,11
+"474","Pentagon","Vervet","NM","12345",3,12
+"475","Pentagon","Vervet","NM","54321",3,13
+"476","Pentagon","Vervet","NM","54321",3,14
+"477","Pentagon","Vervet","NM","15432",3,15
+"478","Pentagon","Vervet","NM","15432",3,16
+"479","Pentagon","Vervet","NM","12345",3,17
+"480","Pentagon","Vervet","NM","12345",3,18
+"481","Pentagon","Vervet","NM","12345",3,19
+"482","Pentagon","Vervet","NM","12345",3,20
+"483","Pentagon","Vervet","NM","54321",3,21
+"484","Pentagon","Vervet","NM","51234",4,22
+"485","Pentagon","Vervet","NM","43215",4,23
+"486","Pentagon","Vervet","NM","43215",4,24
+"487","Pentagon","Vervet","NM","45123",4,25
+"488","Pentagon","Vervet","NM","34512",4,26
+"489","Pentagon","Vervet","NM","43215",5,27
+"490","Pentagon","Vervet","NM","43215",5,28
+"491","Pentagon","Vervet","NM","43215",5,29
+"492","Pentagon","Vervet","NM","43215",5,30
+"493","Pentagon","Vervet","NM","23451",5,31
+"494","Pentagon","Vervet","NM","43215",5,32
+"495","Pentagon","Vervet","NM","43215",5,33
+"496","Pentagon","Vervet","TS","12354",1,1
+"497","Pentagon","Vervet","TS","23154",1,2
+"498","Pentagon","Vervet","TS","32145",2,3
+"499","Pentagon","Vervet","TS","4123",2,4
+"500","Pentagon","Vervet","TS","43215",2,5
+"501","Pentagon","Vervet","TS","43215",2,6
+"502","Pentagon","Vervet","TS","32154",2,7
+"503","Pentagon","Vervet","TS","23451",2,8
+"504","Pentagon","Vervet","TS","42351",2,9
+"505","Pentagon","Vervet","TS","45123",2,10
+"506","Pentagon","Vervet","AS","42315",1,1
+"507","Pentagon","Vervet","AS","45123",1,2
+"508","Pentagon","Vervet","AS","45123",1,3
+"509","Pentagon","Vervet","AS","45123",1,4
+"510","Pentagon","Vervet","AS","45123",1,5
+"511","Pentagon","Vervet","CM","12345",1,1
+"512","Pentagon","Vervet","CM","12345",1,2
+"513","Pentagon","Vervet","CM","5421",1,3
+"514","Pentagon","Vervet","CM","12345",1,4
+"515","Pentagon","Vervet","CR","43215",1,1
+"516","Pentagon","Vervet","CT","15432",1,1
+"517","Pentagon","Vervet","CT","21543",2,2
+"518","Pentagon","Vervet","CT","32154",2,3
+"519","Pentagon","Vervet","CT","45123",2,4
+"520","Pentagon","Vervet","CT","54321",3,5
+"521","Pentagon","Vervet","CT","15432",3,6
+"522","Pentagon","Vervet","CT","15432",3,7
+"523","Pentagon","Vervet","CT","15432",3,8
+"524","Pentagon","Vervet","CT","15432",3,9
+"525","Pentagon","Vervet","CT","15432",3,10
+"526","Pentagon","Vervet","CT","15432",3,11
+"527","Pentagon","Vervet","CT","15432",3,12
+"528","Pentagon","Vervet","CT","15432",3,13
+"529","Pentagon","Vervet","JK","54321",1,1
+"530","Pentagon","Vervet","JK","45123",1,2
+"531","Pentagon","Vervet","JK","51234",1,3
+"532","Pentagon","Vervet","JK","432",2,4
+"533","Pentagon","Vervet","JK","32154",2,5
+"534","Pentagon","Vervet","JK","32154",3,6
+"535","Pentagon","Vervet","JL","12345",1,1
+"536","Pentagon","Vervet","JL","34512",1,2
+"537","Pentagon","Vervet","JL","45123",1,3
+"538","Pentagon","Vervet","JM","45123",1,1
+"539","Pentagon","Vervet","JV","43215",1,1
+"540","Pentagon","Vervet","JV","51234",1,2
+"541","Pentagon","Vervet","JV","45123",1,3
+"542","Pentagon","Vervet","JV","34512",2,4
+"543","Pentagon","Vervet","KW","12345",1,1
+"544","Pentagon","Vervet","KW","43215",2,2
+"545","Pentagon","Vervet","KW","45123",2,3
+"546","Pentagon","Vervet","KW","43",2,4
+"547","Pentagon","Vervet","KW","45123",2,5
+"548","Pentagon","Vervet","KW","54321",2,6
+"549","Pentagon","Vervet","LK","21543",1,1
+"550","Pentagon","Vervet","LK","21543",1,2
+"551","Pentagon","Vervet","LK","21543",1,3
+"552","Pentagon","Vervet","LK","12345",2,4
+"553","Pentagon","Vervet","LK","12345",2,5
+"554","Pentagon","Vervet","LK","15234",3,6
+"555","Pentagon","Vervet","LK","34512",3,7
+"556","Pentagon","Vervet","ML","15234",1,1
+"557","Pentagon","Vervet","ML","51234",1,2
+"558","Pentagon","Vervet","ML","15432",2,3
+"559","Pentagon","Vervet","ML","43215",3,4
+"560","Pentagon","Vervet","ML","34512",3,5
+"561","Pentagon","Vervet","ML","32154",3,6
+"562","Pentagon","Vervet","OT","23451",1,1
+"563","Pentagon","Vervet","PM","54321",1,1
+"564","Pentagon","Vervet","PM","51234",1,2
+"565","Pentagon","Vervet","PM","21543",2,3
+"566","Pentagon","Vervet","PM","21543",2,4
+"567","Pentagon","Vervet","PM","32154",2,5
+"568","Pentagon","Vervet","PM","34512",3,6
+"569","Pentagon","Vervet","PM","45123",3,7
+"570","Pentagon","Vervet","PM","45123",3,8
+"571","Pentagon","Vervet","PM","41235",3,9
+"572","Pentagon","Vervet","PM","45123",3,10
+"573","Pentagon","Vervet","PM","32154",3,11
+"574","Pentagon","Vervet","PT","32154",1,1
+"575","Pentagon","Vervet","PT","32154",1,2
+"576","Pentagon","Vervet","PT","45123",2,3
+"577","Pentagon","Vervet","PT","45123",2,4
+"578","Pentagon","Vervet","PT","51234",2,5
+"579","Pentagon","Vervet","PT","43215",3,6
+"580","Pentagon","Vervet","PT","45123",3,7
+"581","Pentagon","Vervet","PT","45123",3,8
+"582","Pentagon","Vervet","PT","54321",3,9
+"583","Pentagon","Vervet","PT","51234",3,10
+"584","Pentagon","Vervet","PT","45123",3,11
+"585","Pentagon","Vervet","PT","12543",3,12
+"586","Pentagon","Vervet","PT","45123",3,13
+"587","Pentagon","Vervet","PT","45123",3,14
+"588","Pentagon","Vervet","PT","34512",3,15
+"589","Pentagon","Vervet","PT","34512",4,16
+"590","Pentagon","Vervet","PT","54321",4,17
+"591","Pentagon","Vervet","PT","34512",5,18
+"592","Pentagon","Vervet","PT","45123",6,19
+"593","Pentagon","Vervet","PT","43215",6,20
+"594","Pentagon","Vervet","PT","45123",6,21
+"595","Pentagon","Vervet","PT","43215",6,22
+"596","Pentagon","Vervet","PT","45123",6,23
+"597","Pentagon","Vervet","PT","45123",6,24
+"598","Pentagon","Vervet","PT","43215",6,25
+"599","Pentagon","Vervet","SY","51234",1,1
+"600","Pentagon","Vervet","SY","43215",1,2
+"601","Pentagon","Vervet","SY","32154",2,3
+"602","Pentagon","Vervet","SY","51234",2,4
+"603","Pentagon","Vervet","SY","23451",2,5
+"604","Pentagon","Vervet","SY","15432",2,6
+"605","Pentagon","Vervet","SY","21543",2,7
+"606","Pentagon","Vervet","SY","34512",2,8
+"607","Pentagon","Vervet","SY","34512",2,9
+"608","Pentagon","Vervet","SY","34512",2,10
+"609","Pentagon","Vervet","SY","45123",2,11
+"610","Pentagon","Vervet","SY","32154",3,12
+"611","Pentagon","Vervet","SY","45123",4,13
+"612","Pentagon","Vervet","SY","45123",5,14
+"613","Pentagon","Vervet","SY","45123",5,15
+"614","Pentagon","Vervet","SY","34512",6,16
+"615","Pentagon","Vervet","SY","34512",6,17
+"616","Pentagon","Vervet","SY","54321",6,18
+"617","Pentagon","Vervet","SY","15432",6,19
+"618","Pentagon","Vervet","SY","15432",6,20
+"619","Pentagon","Vervet","SY","43215",6,21
+"620","Pentagon","Vervet","SY","54321",6,22
+"621","Pentagon","Vervet","SY","51234",7,23
+"622","Pentagon","Vervet","SY","34512",7,24
+"623","Pentagon","Vervet","SY","34512",7,25
+"624","Pentagon","Vervet","TM","12345",1,1
+"625","Pentagon","Vervet","VN","45123",1,1
+"626","Pentagon","Vervet","VN","32154",1,2
+"627","Pentagon","Vervet","VN","2154",2,3
+"628","Pentagon","Vervet","VN","21543",2,4
+"629","Pentagon","Vervet","VN","32154",3,5
+"630","Pentagon","Vervet","VN","34512",4,6
+"631","Pentagon","Vervet","VN","32154",5,7
+"632","Pentagon","Vervet","VN","23451",5,8
+"633","Pentagon","Vervet","VP","32154",1,1
+"634","Pentagon","Vervet","VP","12345",1,2
+"635","Pentagon","Vervet","VP","32154",1,3
+"636","Zarray","Vervet","DG","256431",1,1
+"637","Zarray","Vervet","DG","543216",2,2
+"638","Zarray","Vervet","DG","5432156",2,3
+"639","Zarray","Vervet","DG","123456",2,4
+"640","Zarray","Vervet","DG","543216",2,5
+"641","Zarray","Vervet","DG","543216",2,6
+"642","Zarray","Vervet","DG","564321",2,7
+"643","Zarray","Vervet","DG","654321",3,8
+"644","Zarray","Vervet","DG","654321",3,9
+"645","Zarray","Vervet","DG","234651",3,10
+"646","Zarray","Vervet","DG","345621",4,11
+"647","Zarray","Vervet","DG","543216",4,12
+"648","Zarray","Vervet","DG","543216",4,13
+"649","Zarray","Vervet","DG","543216",4,14
+"650","Zarray","Vervet","DG","543621",4,15
+"651","Zarray","Vervet","DG","134562",5,16
+"652","Zarray","Vervet","DG","435621",5,17
+"653","Zarray","Vervet","DG","123456",5,18
+"654","Zarray","Vervet","DG","643215",6,19
+"655","Zarray","Vervet","DG","543216",6,20
+"656","Zarray","Vervet","DG","432156",7,21
+"657","Zarray","Vervet","DG","432156",8,22
+"658","Zarray","Vervet","DG","654321",8,23
+"659","Zarray","Vervet","DG","234561",8,24
+"660","Zarray","Vervet","DG","123456",9,25
+"661","Zarray","Vervet","DG","134652",10,26
+"662","Zarray","Vervet","DG","234561",10,27
+"663","Zarray","Vervet","DG","345621",11,28
+"664","Zarray","Vervet","DG","134561",12,29
+"665","Zarray","Vervet","DG","123465",12,30
+"666","Zarray","Vervet","DG","234561",12,31
+"667","Zarray","Vervet","DG","234651",12,32
+"668","Zarray","Vervet","DG","213456",13,33
+"669","Zarray","Vervet","DG","213456",13,34
+"670","Zarray","Vervet","DG","234561",13,35
+"671","Zarray","Vervet","DG","564321",14,36
+"672","Zarray","Vervet","GA","345621",1,1
+"673","Zarray","Vervet","GA","123456",1,2
+"674","Zarray","Vervet","GA","234561",2,3
+"675","Zarray","Vervet","GA","234561",2,4
+"676","Zarray","Vervet","GA","213456",2,5
+"677","Zarray","Vervet","GA","234651",3,6
+"678","Zarray","Vervet","GA","346521",3,7
+"679","Zarray","Vervet","GR","123456",1,1
+"680","Zarray","Vervet","GR","123456",2,2
+"681","Zarray","Vervet","GR","134562",2,3
+"682","Zarray","Vervet","GR","456321",3,4
+"683","Zarray","Vervet","GR","132456",4,5
+"684","Zarray","Vervet","GR","123456",4,6
+"685","Zarray","Vervet","GR","134562",4,7
+"686","Zarray","Vervet","GR","134562",5,8
+"687","Zarray","Vervet","GR","123456",6,9
+"688","Zarray","Vervet","GR","432651",6,10
+"689","Zarray","Vervet","GR","543216",6,11
+"690","Zarray","Vervet","GR","564321",6,12
+"691","Zarray","Vervet","GR","123456",7,13
+"692","Zarray","Vervet","GR","432165",8,14
+"693","Zarray","Vervet","GR","123465",8,15
+"694","Zarray","Vervet","GR","1323456",9,16
+"695","Zarray","Vervet","GR","346512",9,17
+"696","Zarray","Vervet","GR","123456",9,18
+"697","Zarray","Vervet","GR","123456",9,19
+"698","Zarray","Vervet","GR","234156",9,20
+"699","Zarray","Vervet","GR","432165",10,21
+"700","Zarray","Vervet","GR","123456",10,22
+"701","Zarray","Vervet","GR","132456",10,23
+"702","Zarray","Vervet","GR","123465",10,24
+"703","Zarray","Vervet","GR","564321",10,25
+"704","Zarray","Vervet","GR","456321",10,26
+"705","Zarray","Vervet","GR","132456",11,27
+"706","Zarray","Vervet","GR","564321",12,28
+"707","Zarray","Vervet","GR","564321",13,29
+"708","Zarray","Vervet","GR","543216",13,30
+"709","Zarray","Vervet","GR","234651",14,31
+"710","Zarray","Vervet","GR","543126",14,32
+"711","Zarray","Vervet","JK","123465",1,1
+"712","Zarray","Vervet","JK","543216",1,2
+"713","Zarray","Vervet","JK","465123",1,3
+"714","Zarray","Vervet","JK","432156",1,4
+"715","Zarray","Vervet","JK","234651",2,5
+"716","Zarray","Vervet","JK","564321",3,6
+"717","Zarray","Vervet","JK","564321",3,7
+"718","Zarray","Vervet","JK","543216",3,8
+"719","Zarray","Vervet","JK","543216",3,9
+"720","Zarray","Vervet","JK","543216",3,10
+"721","Zarray","Vervet","JK","543216",3,11
+"722","Zarray","Vervet","JK","564321",3,12
+"723","Zarray","Vervet","JK","564321",3,13
+"724","Zarray","Vervet","JK","564321",3,14
+"725","Zarray","Vervet","JK","543216",3,15
+"726","Zarray","Vervet","JK","543126",3,16
+"727","Zarray","Vervet","JK","543216",4,17
+"728","Zarray","Vervet","JK","543216",4,18
+"729","Zarray","Vervet","JK","564321",4,19
+"730","Zarray","Vervet","JK","564321",4,20
+"731","Zarray","Vervet","JK","564321",4,21
+"732","Zarray","Vervet","JK","543216",4,22
+"733","Zarray","Vervet","JK","123456",5,23
+"734","Zarray","Vervet","JK","643215",6,24
+"735","Zarray","Vervet","JK","456231",7,25
+"736","Zarray","Vervet","JK","564321",8,26
+"737","Zarray","Vervet","JK","643215",8,27
+"738","Zarray","Vervet","JK","213456",9,28
+"739","Zarray","Vervet","JK","564321",9,29
+"740","Zarray","Vervet","JK","654321",10,30
+"741","Zarray","Vervet","JK","345621",10,31
+"742","Zarray","Vervet","JK","345621",10,32
+"743","Zarray","Vervet","JK","234561",10,33
+"744","Zarray","Vervet","JK","234561",10,34
+"745","Zarray","Vervet","JK","234561",10,35
+"746","Zarray","Vervet","JK","213456",10,36
+"747","Zarray","Vervet","JK","234561",10,37
+"748","Zarray","Vervet","JK","234561",10,38
+"749","Zarray","Vervet","JK","234561",10,39
+"750","Zarray","Vervet","JK","234561",10,40
+"751","Zarray","Vervet","LM","134562",1,1
+"752","Zarray","Vervet","LM","345621",2,2
+"753","Zarray","Vervet","LM","543126",3,3
+"754","Zarray","Vervet","LM","134562",4,4
+"755","Zarray","Vervet","LM","543126",4,5
+"756","Zarray","Vervet","LM","123456",4,6
+"757","Zarray","Vervet","LP","134256",1,1
+"758","Zarray","Vervet","LP","134562",2,2
+"759","Zarray","Vervet","LP","134562",3,3
+"760","Zarray","Vervet","LP","234561",4,4
+"761","Zarray","Vervet","LP","543216",5,5
+"762","Zarray","Vervet","LP","654321",5,6
+"763","Zarray","Vervet","LP","543261",5,7
+"764","Zarray","Vervet","LP","234561",6,8
+"765","Zarray","Vervet","LP","234561",6,9
+"766","Zarray","Vervet","LP","234561",6,10
+"767","Zarray","Vervet","LP","234561",6,11
+"768","Zarray","Vervet","LP","234561",6,12
+"769","Zarray","Vervet","LP","234561",6,13
+"770","Zarray","Vervet","LP","234651",6,14
+"771","Zarray","Vervet","LP","123456",6,15
+"772","Zarray","Vervet","LP","134562",6,16
+"773","Zarray","Vervet","LP","134562",6,17
+"774","Zarray","Vervet","LP","643412",7,18
+"775","Zarray","Vervet","LP","643215",7,19
+"776","Zarray","Vervet","LP","654321",7,20
+"777","Zarray","Vervet","LP","654321",7,21
+"778","Zarray","Vervet","LP","435612",8,22
+"779","Zarray","Vervet","LP","432165",8,23
+"780","Zarray","Vervet","LP","634512",9,24
+"781","Zarray","Vervet","LP","134562",10,25
+"782","Zarray","Vervet","LP","134562",10,26
+"783","Zarray","Vervet","LP","234561",11,27
+"784","Zarray","Vervet","LP","643215",11,28
+"785","Zarray","Vervet","LP","234561",11,29
+"786","Zarray","Vervet","LP","234561",11,30
+"787","Zarray","Vervet","LP","234561",11,31
+"788","Zarray","Vervet","LP","234651",11,32
+"789","Zarray","Vervet","LP","643125",12,33
+"790","Zarray","Vervet","LP","134562",12,34
+"791","Zarray","Vervet","LP","345621",12,35
+"792","Zarray","Vervet","LP","134562",12,36
+"793","Zarray","Vervet","LP","134652",12,37
+"794","Zarray","Vervet","LP","134562",12,38
+"795","Zarray","Vervet","LP","134562",12,39
+"796","Zarray","Vervet","LP","134562",12,40
+"797","Zarray","Vervet","LP","134562",12,41
+"798","Zarray","Vervet","LP","134562",12,42
+"799","Zarray","Vervet","LP","134562",12,43
+"800","Zarray","Vervet","LP","134562",12,44
+"801","Zarray","Vervet","LP","543126",13,45
+"802","Zarray","Vervet","LP","564321",14,46
+"803","Zarray","Vervet","LP","134562",14,47
+"804","Zarray","Vervet","LP","134562",14,48
+"805","Zarray","Vervet","LP","1345632",14,49
+"806","Zarray","Vervet","LP","134562",14,50
+"807","Zarray","Vervet","LP","134562",14,51
+"808","Zarray","Vervet","LP","543126",14,52
+"809","Zarray","Vervet","LP","234561",15,53
+"810","Zarray","Vervet","LP","134562",15,54
+"811","Zarray","Vervet","LP","134562",15,55
+"812","Zarray","Vervet","LP","134562",15,56
+"813","Zarray","Vervet","LP","234561",15,57
+"814","Zarray","Vervet","LP","234561",15,58
+"815","Zarray","Vervet","LP","234561",15,59
+"816","Zarray","Vervet","LP","234561",15,60
+"817","Zarray","Vervet","LP","234561",15,61
+"818","Zarray","Vervet","LP","432165",16,62
+"819","Zarray","Vervet","LP","134562",16,63
+"820","Zarray","Vervet","LP","543216",17,64
+"821","Zarray","Vervet","LP","543216",17,65
+"822","Zarray","Vervet","LP","5432146",17,66
+"823","Zarray","Vervet","LP","543216",17,67
+"824","Zarray","Vervet","LP","543216",17,68
+"825","Zarray","Vervet","LP","321456",18,69
+"826","Zarray","Vervet","LP","643215",18,70
+"827","Zarray","Vervet","LP","431265",18,71
+"828","Zarray","Vervet","LP","213456",18,72
+"829","Zarray","Vervet","LP","341265",18,73
+"830","Zarray","Vervet","LP","431256",19,74
+"831","Zarray","Vervet","LT","654321",1,1
+"832","Zarray","Vervet","LT","543216",2,2
+"833","Zarray","Vervet","LT","134562",3,3
+"834","Zarray","Vervet","MA","234561",1,1
+"835","Zarray","Vervet","MA","543216",2,2
+"836","Zarray","Vervet","MA","435612",3,3
+"837","Zarray","Vervet","MA","456321",3,4
+"838","Zarray","Vervet","MA","134562",3,5
+"839","Zarray","Vervet","MA","134562",3,6
+"840","Zarray","Vervet","MA","134562",4,7
+"841","Zarray","Vervet","MA","134562",5,8
+"842","Zarray","Vervet","MA","134562",6,9
+"843","Zarray","Vervet","MA","432156",6,10
+"844","Zarray","Vervet","MA","134562",7,11
+"845","Zarray","Vervet","MA","432156",8,12
+"846","Zarray","Vervet","MA","234561",8,13
+"847","Zarray","Vervet","MA","234561",8,14
+"848","Zarray","Vervet","MA","134562",8,15
+"849","Zarray","Vervet","MA","234561",8,16
+"850","Zarray","Vervet","MA","346521",8,17
+"851","Zarray","Vervet","MA","134652",8,18
+"852","Zarray","Vervet","MA","145632",9,19
+"853","Zarray","Vervet","MA","543216",9,20
+"854","Zarray","Vervet","MA","234561",10,21
+"855","Zarray","Vervet","MA","134562",10,22
+"856","Zarray","Vervet","MA","234561",10,23
+"857","Zarray","Vervet","MA","432156",10,24
+"858","Zarray","Vervet","MA","134562",10,25
+"859","Zarray","Vervet","MA","134562",10,26
+"860","Zarray","Vervet","MA","134562",10,27
+"861","Zarray","Vervet","MA","134562",11,28
+"862","Zarray","Vervet","MA","345621",12,29
+"863","Zarray","Vervet","MA","435621",12,30
+"864","Zarray","Vervet","MA","432156",13,31
+"865","Zarray","Vervet","MA","143265",13,32
+"866","Zarray","Vervet","MA","234561",14,33
+"867","Zarray","Vervet","MA","345621",14,34
+"868","Zarray","Vervet","MA","432156",14,35
+"869","Zarray","Vervet","MA","643215",15,36
+"870","Zarray","Vervet","MA","234561",15,37
+"871","Zarray","Vervet","MA","234561",15,38
+"872","Zarray","Vervet","MA","234561",15,39
+"873","Zarray","Vervet","MA","134562",15,40
+"874","Zarray","Vervet","MA","134562",15,41
+"875","Zarray","Vervet","MA","134562",15,42
+"876","Zarray","Vervet","MA","234561",16,43
+"877","Zarray","Vervet","MA","134562",16,44
+"878","Zarray","Vervet","PF","643215",1,1
+"879","Zarray","Vervet","PG","234561",1,1
+"880","Zarray","Vervet","PG","213456",1,2
+"881","Zarray","Vervet","PG","234651",1,3
+"882","Zarray","Vervet","PG","234651",1,4
+"883","Zarray","Vervet","PG","456321",2,5
+"884","Zarray","Vervet","PG","543216",2,6
+"885","Zarray","Vervet","PG","564321",3,7
+"886","Zarray","Vervet","PG","134652",3,8
+"887","Zarray","Vervet","PG","234561",4,9
+"888","Zarray","Vervet","PT","543216",1,1
+"889","Zarray","Vervet","PT","543126",1,2
+"890","Zarray","Vervet","PT","134562",2,3
+"891","Zarray","Vervet","PT","234561",2,4
+"892","Zarray","Vervet","PT","213456",2,5
+"893","Zarray","Vervet","PT","123456",2,6
+"894","Zarray","Vervet","PT","234561",3,7
+"895","Zarray","Vervet","PT","543126",3,8
+"896","Zarray","Vervet","PT","134562",4,9
+"897","Zarray","Vervet","PT","234651",5,10
+"898","Zarray","Vervet","PT","543216",5,11
+"899","Zarray","Vervet","PT","234561",6,12
+"900","Zarray","Vervet","PY","134562",1,1
+"901","Zarray","Vervet","PY","564321",1,2
+"902","Zarray","Vervet","PY","543216",1,3
+"903","Zarray","Vervet","PY","543216",1,4
+"904","Zarray","Vervet","PY","234561",1,5
+"905","Zarray","Vervet","PY","543126",1,6
+"906","Zarray","Vervet","PY","432156",2,7
+"907","Zarray","Vervet","PY","123456",2,8
+"908","Zarray","Vervet","PY","543216",2,9
+"909","Zarray","Vervet","PY","234561",3,10
+"910","Zarray","Vervet","PY","543216",3,11
+"911","Zarray","Vervet","PY","654321",4,12
+"912","Zarray","Vervet","PY","543216",4,13
+"913","Zarray","Vervet","PY","234561",4,14
+"914","Zarray","Vervet","PY","645215",4,15
+"915","Zarray","Vervet","PY","654321",5,16
+"916","Zarray","Vervet","PY","432156",5,17
+"917","Zarray","Vervet","PY","543216",5,18
+"918","Zarray","Vervet","PY","543216",5,19
+"919","Zarray","Vervet","PY","543216",5,20
+"920","Zarray","Vervet","PY","134562",5,21
+"921","Zarray","Vervet","PY","543216",5,22
+"922","Zarray","Vervet","PY","543216",6,23
+"923","Zarray","Vervet","PY","543216",6,24
+"924","Zarray","Vervet","PY","543216",6,25
+"925","Zarray","Vervet","PY","134562",6,26
+"926","Zarray","Vervet","PY","432561",6,27
+"927","Zarray","Vervet","PY","543216",6,28
+"928","Zarray","Vervet","PY","543216",6,29
+"929","Zarray","Vervet","PY","123456",7,30
+"930","Zarray","Vervet","PY","134562",7,31
+"931","Zarray","Vervet","PY","134562",7,32
+"932","Zarray","Vervet","PY","134562",7,33
+"933","Zarray","Vervet","PY","345621",7,34
+"934","Zarray","Vervet","PY","543612",7,35
+"935","Zarray","Vervet","PY","123456",8,36
+"936","Zarray","Vervet","PY","234561",8,37
+"937","Zarray","Vervet","PY","123456",8,38
+"938","Zarray","Vervet","PY","123456",9,39
+"939","Zarray","Vervet","PY","543216",9,40
+"940","Zarray","Vervet","PY","234561",9,41
+"941","Zarray","Vervet","PY","4654321",9,42
+"942","Zarray","Vervet","PY","234561",9,43
+"943","Zarray","Vervet","PY","543216",10,44
+"944","Zarray","Vervet","PY","543216",10,45
+"945","Zarray","Vervet","PY","543216",10,46
+"946","Zarray","Vervet","PY","543216",10,47
+"947","Zarray","Vervet","PY","654321",10,48
+"948","Zarray","Vervet","PY","654321",10,49
+"949","Zarray","Vervet","PY","643215",10,50
+"950","Zarray","Vervet","PY","654321",11,51
+"951","Zarray","Vervet","PY","123456",11,52
+"952","Zarray","Vervet","PY","134562",11,53
+"953","Zarray","Vervet","PY","234561",11,54
+"954","Zarray","Vervet","PY","123456",11,55
+"955","Zarray","Vervet","PY","643215",11,56
+"956","Zarray","Vervet","PY","543216",12,57
+"957","Zarray","Vervet","PY","543216",12,58
+"958","Zarray","Vervet","PY","543216",12,59
+"959","Zarray","Vervet","PY","134562",12,60
+"960","Zarray","Vervet","PY","543216",12,61
+"961","Zarray","Vervet","PY","432156",13,62
+"962","Zarray","Vervet","PY","234561",13,63
+"963","Zarray","Vervet","PY","234561",13,64
+"964","Zarray","Vervet","PY","123456",13,65
+"965","Zarray","Vervet","PY","543216",14,66
+"966","Zarray","Vervet","PY","543216",14,67
+"967","Zarray","Vervet","PY","543216",14,68
+"968","Zarray","Vervet","PY","543216",14,69
+"969","Zarray","Vervet","PY","543216",14,70
+"970","Zarray","Vervet","PY","543216",14,71
+"971","Zarray","Vervet","PY","654321",14,72
+"972","Zarray","Vervet","PY","134562",15,73
+"973","Zarray","Vervet","PY","134562",15,74
+"974","Zarray","Vervet","PY","543216",16,75
+"975","Zarray","Vervet","PY","213456",16,76
+"976","Zarray","Vervet","PY","432165",16,77
+"977","Zarray","Vervet","PY","123456",16,78
+"978","Zarray","Vervet","PY","543216",17,79
+"979","Zarray","Vervet","PY","543216",17,80
+"980","Zarray","Vervet","PY","4345621",18,81
+"981","Zarray","Vervet","PY","654321",19,82
+"982","Zarray","Vervet","PY","543216",19,83
+"983","Zarray","Vervet","PY","543216",19,84
+"984","Zarray","Vervet","PY","564321",19,85
+"985","Zarray","Vervet","PY","564321",19,86
+"986","Zarray","Vervet","PY","234561",19,87
+"987","Zarray","Vervet","PY","123456",19,88
+"988","Zarray","Vervet","PY","123465",20,89
+"989","Zarray","Vervet","PY","123456",20,90
+"990","Zarray","Vervet","PY","123456",20,91
+"991","Zarray","Vervet","PY","123456",20,92
+"992","Zarray","Vervet","PY","432156",20,93
+"993","Zarray","Vervet","PY","342156",21,94
+"994","Zarray","Vervet","PY","564321",22,95
+"995","Zarray","Vervet","PY","654312",23,96
+"996","Zarray","Vervet","PY","543216",23,97
+"997","Zarray","Vervet","PY","543216",23,98
+"998","Zarray","Vervet","PY","234561",23,99
+"999","Zarray","Vervet","PY","654321",23,100
+"1000","Zarray","Vervet","PY","654321",23,101
+"1001","Zarray","Vervet","PY","543216",24,102
+"1002","Zarray","Vervet","PY","4321456",24,103
+"1003","Zarray","Vervet","PY","432156",24,104
+"1004","Zarray","Vervet","PY","432156",24,105
+"1005","Zarray","Vervet","PY","543216",25,106
+"1006","Zarray","Vervet","PY","543126",25,107
+"1007","Zarray","Vervet","PY","543216",25,108
+"1008","Zarray","Vervet","PY","234561",26,109
+"1009","Zarray","Vervet","PY","432165",26,110
+"1010","Zarray","Vervet","PY","123456",27,111
+"1011","Zarray","Vervet","PY","134652",27,112
+"1012","Zarray","Vervet","PY","543216",28,113
+"1013","Zarray","Vervet","PY","654321",28,114
+"1014","Zarray","Vervet","PY","123465",28,115
+"1015","Zarray","Vervet","PY","543216",28,116
+"1016","Zarray","Vervet","PY","654321",28,117
+"1017","Zarray","Vervet","PY","134562",29,118
+"1018","Zarray","Vervet","PY","123465",29,119
+"1019","Zarray","Vervet","PY","432561",29,120
+"1020","Zarray","Vervet","PY","543216",30,121
+"1021","Zarray","Vervet","PY","234561",31,122
+"1022","Zarray","Vervet","PY","234561",32,123
+"1023","Zarray","Vervet","PY","543216",32,124
+"1024","Zarray","Vervet","PY","654312",32,125
+"1025","Zarray","Vervet","PY","543216",33,126
+"1026","Zarray","Vervet","PY","134562",33,127
+"1027","Zarray","Vervet","PY","432156",33,128
+"1028","Zarray","Vervet","PY","432156",34,129
+"1029","Zarray","Vervet","PY","543216",34,130
+"1030","Zarray","Vervet","PY","543216",34,131
+"1031","Zarray","Vervet","PY","543216",35,132
+"1032","Zarray","Vervet","PY","324561",35,133
+"1033","Zarray","Vervet","PY","234561",36,134
+"1034","Zarray","Vervet","PY","234561",36,135
+"1035","Zarray","Vervet","PY","543216",36,136
+"1036","Zarray","Vervet","PY","543216",36,137
+"1037","Zarray","Vervet","PY","234561",37,138
+"1038","Zarray","Vervet","PY","213456",37,139
+"1039","Zarray","Vervet","PY","234561",37,140
+"1040","Zarray","Vervet","PY","234651",37,141
+"1041","Zarray","Vervet","PY","234561",38,142
+"1042","Zarray","Vervet","PY","543216",38,143
+"1043","Zarray","Vervet","PY","543216",38,144
+"1044","Zarray","Vervet","PY","543216",38,145
+"1045","Zarray","Vervet","PY","543216",39,146
+"1046","Zarray","Vervet","PY","543216",39,147
+"1047","Zarray","Vervet","PY","543216",39,148
+"1048","Zarray","Vervet","PY","543216",39,149
+"1049","Zarray","Vervet","PY","543216",39,150
+"1050","Zarray","Vervet","PY","543216",39,151
+"1051","Zarray","Vervet","PY","543216",39,152
+"1052","Zarray","Vervet","PY","234561",39,153
+"1053","Zarray","Vervet","PY","234561",39,154
+"1054","Zarray","Vervet","PY","234561",40,155
+"1055","Zarray","Vervet","PY","234651",40,156
+"1056","Zarray","Vervet","PY","543216",40,157
+"1057","Zarray","Vervet","PY","234651",40,158
+"1058","Zarray","Vervet","PY","543216",40,159
+"1059","Zarray","Vervet","PY","543216",40,160
+"1060","Zarray","Vervet","PY","543216",40,161
+"1061","Zarray","Vervet","PY","134562",41,162
+"1062","Zarray","Vervet","PY","123456",42,163
+"1063","Zarray","Vervet","PY","543216",42,164
+"1064","Zarray","Vervet","PY","543216",42,165
+"1065","Zarray","Vervet","PY","543216",42,166
+"1066","Zarray","Vervet","PY","432156",42,167
+"1067","Zarray","Vervet","PY","134562",42,168
+"1068","Zarray","Vervet","PY","123456",42,169
+"1069","Zarray","Vervet","PY","543216",42,170
+"1070","Zarray","Vervet","PY","123456",42,171
+"1071","Zarray","Vervet","PY","123465",43,172
+"1072","Zarray","Vervet","PY","123456",43,173
+"1073","Zarray","Vervet","PY","123465",43,174
+"1074","Zarray","Vervet","RM","643215",1,1
+"1075","Zarray","Vervet","RM","134562",1,2
+"1076","Zarray","Vervet","RM","234561",1,3
+"1077","Zarray","Vervet","RM","234561",1,4
+"1078","Zarray","Vervet","TB","213456",1,1
+"1079","Zarray","Vervet","TB","543126",1,2
+"1080","Zarray","Vervet","TB","123456",1,3
+"1081","Zarray","Vervet","TB","234561",1,4
+"1082","Zarray","Vervet","TB","234561",2,5
+"1083","Zarray","Vervet","TB","234561",3,6
+"1084","Zarray","Vervet","TB","234561",3,7
+"1085","Zarray","Vervet","TB","234561",3,8
+"1086","Zarray","Vervet","TB","234561",3,9
+"1087","Zarray","Vervet","TB","234561",3,10
+"1088","Zarray","Vervet","TB","643215",4,11
+"1089","Zarray","Vervet","TB","643215",4,12
+"1090","Zarray","Vervet","TB","654321",5,13
+"1091","Zarray","Vervet","TB","643215",6,14
+"1092","Zarray","Vervet","TB","543216",6,15
+"1093","Zarray","Vervet","TB","543126",6,16
+"1094","Zarray","Vervet","TB","234561",7,17
+"1095","Zarray","Vervet","TB","543216",7,18
+"1096","Zarray","Vervet","TB","123456",8,19
+"1097","Zarray","Vervet","TB","234561",8,20
+"1098","Zarray","Vervet","TB","213456",8,21
+"1099","Zarray","Vervet","TB","234651",8,22
+"1100","Zarray","Vervet","TB","234561",8,23
+"1101","Zarray","Vervet","TB","234561",9,24
+"1102","Zarray","Vervet","TB","234561",9,25
+"1103","Zarray","Vervet","TB","234561",9,26
+"1104","Zarray","Vervet","TB","123465",10,27
+"1105","Zarray","Vervet","TB","134562",11,28
+"1106","Zarray","Vervet","TB","432156",12,29
+"1107","Zarray","Vervet","TG","432156",1,1
+"1108","Zarray","Vervet","TG","543216",1,2
+"1109","Zarray","Vervet","TG","432156",1,3
+"1110","Zarray","Vervet","TG","456321",2,4
+"1111","Zarray","Vervet","TG","134562",2,5
+"1112","Zarray","Vervet","TG","134562",2,6
+"1113","Zarray","Vervet","TG","123456",2,7
+"1114","Zarray","Vervet","TG","123456",2,8
+"1115","Zarray","Vervet","TG","543216",3,9
+"1116","Zarray","Vervet","TG","563421",3,10
+"1117","Zarray","Vervet","TG","234561",4,11
+"1118","Zarray","Vervet","TG","643215",4,12
+"1119","Zarray","Vervet","TG","643215",4,13
+"1120","Zarray","Vervet","TG","643215",4,14
+"1121","Zarray","Vervet","TG","643125",5,15
+"1122","Zarray","Vervet","TG","643125",5,16
+"1123","Zarray","Vervet","TG","643215",5,17
+"1124","Zarray","Vervet","TG","643215",5,18
+"1125","Zarray","Vervet","TG","643215",5,19
+"1126","Zarray","Vervet","TG","134652",6,20
+"1127","Zarray","Vervet","TG","134562",6,21
+"1128","Zarray","Vervet","TG","134562",6,22
+"1129","Zarray","Vervet","TG","134265",6,23
+"1130","Zarray","Vervet","TG","134562",6,24
+"1131","Zarray","Vervet","TG","134562",6,25
+"1132","Zarray","Vervet","TG","134562",6,26
+"1133","Zarray","Vervet","TG","123456",7,27
+"1134","Zarray","Vervet","TG","213456",8,28
+"1135","Zarray","Vervet","TG","132456",9,29
+"1136","Zarray","Vervet","TG","123456",9,30
+"1137","Zarray","Vervet","TG","453216",9,31
+"1138","Zarray","Vervet","TG","345621",9,32
+"1139","Zarray","Vervet","TG","432156",9,33
+"1140","Zarray","Vervet","TG","643215",10,34
+"1141","Zarray","Vervet","TG","231456",10,35
+"1142","Zarray","Vervet","TG","234561",10,36
+"1143","Zarray","Vervet","TG","345621",10,37
+"1144","Zarray","Vervet","TG","321456",10,38
+"1145","Zarray","Vervet","TS","165432",1,1
+"1146","Zarray","Vervet","TS","5431456",1,2
+"1147","Zarray","Vervet","TS","143256",2,3
+"1148","Zarray","Vervet","TS","543216",2,4
+"1149","Zarray","Vervet","TS","432651",2,5
+"1150","Zarray","Vervet","TS","564321",2,6
+"1151","Zarray","Vervet","TS","543126",2,7
+"1152","Zarray","Vervet","TS","543216",2,8
+"1153","Zarray","Vervet","TS","654321",3,9
+"1154","Zarray","Vervet","TS","3245631",4,10
+"1155","Zarray","Vervet","TS","234512",4,11
+"1156","Zarray","Vervet","TS","654321",4,12
+"1157","Zarray","Vervet","TS","123456",4,13
+"1158","Zarray","Vervet","TS","234651",4,14
+"1159","Zarray","Vervet","TS","123465",5,15
+"1160","Zarray","Vervet","TS","3452146",5,16
+"1161","Zarray","Vervet","TS","513426",6,17
+"1162","Zarray","Vervet","TS","543216",7,18
+"1163","Zarray","Vervet","TS","543216",7,19
+"1164","Zarray","Vervet","TS","543621",8,20
+"1165","Zarray","Vervet","TS","345612",9,21
+"1166","Zarray","Vervet","VP","123456",1,1
+"1167","Zarray","Vervet","VP","541326",2,2
+"1168","Zarray","Vervet","VP","564321",2,3
+"1169","Zarray","Vervet","VP","2345641",2,4
+"1170","Zarray","Vervet","VP","123465",2,5
+"1171","Zarray","Vervet","VP","123465",2,6
+"1172","Zarray","Vervet","VP","123465",2,7
+"1173","Zarray","Vervet","VP","143265",3,8
+"1174","Zarray","Vervet","VP","564321",4,9
+"1175","Zarray","Vervet","VP","546312",4,10
+"1176","Zarray","Vervet","VP","543216",5,11
+"1177","Zarray","Vervet","VP","564312",5,12
+"1178","Zarray","Vervet","VP","134652",6,13
+"1179","Zarray","Vervet","VP","236541",6,14
+"1180","Zarray","Vervet","VP","123456",7,15
+"1181","Zarray","Vervet","VP","123456",8,16
+"1182","Zarray","Vervet","VP","564321",9,17
+"1183","Zarray","Vervet","VP","213465",10,18
+"1184","Zarray","Vervet","VP","543216",10,19
+"1185","Zarray","Vervet","VP","543216",10,20
+"1186","Zarray","Vervet","VP","213456",10,21
+"1187","Zarray","Vervet","VP","213456",10,22
+"1188","Zarray","Vervet","VP","654312",10,23
+"1189","Zarray","Vervet","VP","654312",10,24
+"1190","Zarray","Vervet","VP","654312",10,25
+"1191","Zarray","Vervet","VP","654312",10,26
+"1192","Zarray","Vervet","VP","564321",11,27
+"1193","Zarray","Vervet","VP","564321",11,28
+"1194","Zarray","Vervet","VP","564321",11,29
+"1195","Zarray","Vervet","VP","123456",11,30
+"1196","Zarray","Vervet","VP","5436312",11,31
+"1197","Zarray","Vervet","VP","234651",11,32
+"1198","Zarray","Vervet","VP","134562",11,33
+"1199","Zarray","Vervet","VP","234561",12,34
+"1200","Zarray","Vervet","VP","123456",12,35
+"1201","Zarray","Vervet","VP","2345631",12,36
+"1202","Zarray","Vervet","VP","654321",12,37
+"1203","Zarray","Vervet","VP","231456",12,38
+"1204","Zarray","Vervet","VP","564321",13,39
+"1205","Zarray","Vervet","VP","123456",13,40
+"1206","Zarray","Vervet","VP","234561",13,41
+"1207","Zarray","Vervet","VP","123456",13,42
+"1208","Zarray","Vervet","VP","234561",13,43
+"1209","Zarray","Vervet","VP","234561",13,44
+"1210","Zarray","Vervet","VP","234561",13,45
+"1211","Zarray","Vervet","VP","543216",13,46
+"1212","Zarray","Vervet","VP","543216",13,47
+"1213","Zarray","Vervet","VP","543216",13,48
+"1214","Zarray","Vervet","VP","543216",13,49
+"1215","Zarray","Vervet","VP","213456",14,50
+"1216","Zarray","Vervet","VP","123456",14,51
+"1217","Zarray","Vervet","VP","564321",14,52
+"1218","Zarray","Vervet","VP","123465",14,53
+"1219","Zarray","Vervet","VP","123465",14,54
+"1220","Zarray","Vervet","VP","564321",15,55
+"1221","Zarray","Vervet","VP","123456",15,56
+"1222","Zarray","Vervet","VP","234561",15,57
+"1223","Zarray","Vervet","VP","213456",15,58
+"1224","Zarray","Vervet","VP","234561",15,59
+"1225","Zarray","Vervet","VP","234561",15,60
+"1226","Zarray","Vervet","VP","564321",16,61
+"1227","Zarray","Vervet","VP","213456",16,62
+"1228","Zarray","Vervet","VP","213456",16,63
+"1229","Zarray","Vervet","VP","123456",16,64
+"1230","Zarray","Vervet","VP","123456",16,65
+"1231","Zarray","Vervet","VP","234561",16,66
+"1232","Zarray","Vervet","VP","213456",16,67
+"1233","Zarray","Vervet","VP","213456",16,68
+"1234","Zarray","Vervet","VP","234651",16,69
+"1235","Zarray","Vervet","VP","213456",16,70
+"1236","Zarray","Vervet","VP","234561",16,71
+"1237","Zarray","Vervet","VP","234561",16,72
+"1238","Zarray","Vervet","VP","234561",16,73
+"1239","Zarray","Vervet","VP","564321",17,74
+"1240","Zarray","Vervet","VP","123456",17,75
+"1241","Zarray","Vervet","VP","564321",17,76
+"1242","Zarray","Vervet","VP","123456",17,77
+"1243","Zarray","Vervet","VP","654321",17,78
+"1244","Zarray","Vervet","VP","213456",17,79
+"1245","Zarray","Vervet","VP","654312",17,80
+"1246","Zarray","Vervet","VP","213456",17,81
+"1247","Zarray","Vervet","VP","123456",18,82
+"1248","Zarray","Vervet","VP","213456",18,83
+"1249","Zarray","Vervet","VP","123456",18,84
+"1250","Zarray","Vervet","VP","564321",18,85
+"1251","Zarray","Vervet","VP","213456",18,86
+"1252","Zarray","Vervet","VP","654321",18,87
+"1253","Zarray","Vervet","VP","123456",18,88
+"1254","Zarray","Vervet","VP","123456",18,89
+"1255","Zarray","Vervet","VP","234561",18,90
+"1256","Zarray","Vervet","VP","134562",18,91
+"1257","Zarray","Vervet","VP","123456",18,92
+"1258","Zarray","Vervet","VP","123456",18,93
+"1259","Zarray","Vervet","VP","123456",18,94
+"1260","Zarray","Vervet","VP","123456",18,95
+"1261","Zarray","Vervet","VP","654321",18,96
+"1262","Zarray","Vervet","VP","123456",18,97
+"1263","Zarray","Vervet","VP","654321",18,98
+"1264","Zarray","Vervet","VP","234561",18,99
+"1265","Zarray","Vervet","VP","213456",18,100
+"1266","Zarray","Vervet","VP","234561",18,101
+"1267","DT","Aye aye","Ardery","143562F",1,1
+"1268","DT","Aye aye","Ardery","345651415362F",1,2
+"1269","DT","Aye aye","Ardery","54561615623F",2,3
+"1270","DT","Aye aye","Ardery","4165414623F",2,4
+"1271","DT","Aye aye","Ardery","165632643162356F",2,5
+"1272","DT","Aye aye","Ardery","16534562F",2,6
+"1273","DT","Aye aye","Ardery","2126434626216565363F",2,7
+"1274","DT","Aye aye","Endora","43461214543F",1,1
+"1275","DT","Aye aye","Endora","341612345F",1,2
+"1276","DT","Aye aye","Endora","5432154126F",1,3
+"1277","DT","Aye aye","Endora","45414365432F",1,4
+"1278","DT","Aye aye","Endora","214145164214543F",1,5
+"1279","DT","Aye aye","Endora","14614543216F",2,6
+"1280","DT","Aye aye","Endora","41653416432F",2,7
+"1281","DT","Aye aye","Endora","32143456F",2,8
+"1282","DT","Aye aye","Endora","645412164513F",2,9
+"1283","DT","Aye aye","Endora","51216543F",3,10
+"1284","DT","Aye aye","Endora","123412165F",3,11
+"1285","DT","Aye aye","Endora","2161456143F",3,12
+"1286","DT","Aye aye","Endora","1234121456F",3,13
+"1287","DT","Aye aye","Endora","6124121645416123543F",3,14
+"1288","DT","Aye aye","Endora","616541614532F",3,15
+"1289","DT","Aye aye","Kali","4653621F",1,1
+"1290","DT","Aye aye","Kali","4561653561235621656565326532653F",1,2
+"1291","DT","Aye aye","Kali","6214562653F",2,3
+"1292","DT","Aye aye","Kali","214536F",2,4
+"1293","DT","Aye aye","Kali","14541216123F",2,5
+"1294","DT","Aye aye","Kali","561214543F",2,6
+"1295","DT","Aye aye","Kali","14353216F",2,7
+"1296","DT","Aye aye","Merlin","3435624356235621354F",1,1
+"1297","DT","Aye aye","Merlin","6321653564F",1,2
+"1298","DT","Aye aye","Merlin","6123563535616535623535612354F",1,3
+"1299","DT","Aye aye","Merlin","462653561F",1,4
+"1300","DT","Aye aye","Merlin","353216535623265326143562353564F",1,5
+"1301","DT","Aye aye","Merlin","6416432162356214365F",2,6
+"1302","DT","Aye aye","Merlin","5341653265356536532F",2,7
+"1303","DT","Aye aye","Merlin","532654565321F",2,8
+"1304","DT","Aye aye","Merlin","416532153F",2,9
+"1305","DT","Aye aye","Merlin","35326532653214F",2,10
+"1306","DT","Aye aye","Merlin","61653264F",2,11
+"1307","DT","Aye aye","Merlin","456435621F",3,12
+"1308","DT","Aye aye","Merlin","64321435F",3,13
+"1309","DT","Aye aye","Merlin","61416532F",3,14
+"1310","DT","Aye aye","Merlin","6432163265F",3,15
+"1311","DT","Aye aye","Merlin","416543265F",3,16
+"1312","DT","Aye aye","Merlin","643214365F",3,17
+"1313","DT","Aye aye","Merlin","61432145F",3,18
+"1314","DT","Aye aye","Merlin","6123265326526532653214F",3,19
+"1315","DT","Aye aye","Merlin","416436532F",3,20
+"1316","DT","Aye aye","Merlin","653214F",3,21
+"1317","DT","Aye aye","Merlin","416532F",3,22
+"1318","DT","Aye aye","Merlin","653214F",3,23
+"1319","DT","Aye aye","Merlin","612321465F",3,24
+"1320","DT","Aye aye","Merlin","6143265F",3,25
+"1321","DT","Aye aye","Merlin","165326532164F",3,26
+"1322","DT","Aye aye","Merlin","65324326535653265341F",3,27
+"1323","DT","Aye aye","Nosy","453562351F",1,1
+"1324","DT","Aye aye","Nosy","632562356235614F",1,2
+"1325","DT","Aye aye","Nosy","235465351F",1,3
+"1326","DT","Aye aye","Nosy","356245623561F",1,4
+"1327","DT","Aye aye","Nosy","14123546F",2,5
+"1328","DT","Aye aye","Nosy","416145623F",2,6
+"1329","DT","Aye aye","Nosy","4616235624356143F",2,7
+"1330","DT","Aye aye","Nosy","1623456235F",2,8
+"1331","DT","Aye aye","Nosy","6235624561F",2,9
+"1332","DT","Aye aye","Ozma","2141262346235F",1,1
+"1333","DT","Aye aye","Ozma","26536531654161435F",2,2
+"1334","DT","Aye aye","Ozma","14356542F",3,3
+"1335","DT","Aye aye","Ozma","45621435F",3,4
+"1336","DT","Aye aye","Ozma","5412145356F",4,5
+"1337","DT","Aye aye","Ozma","543541214356F",4,6
+"1338","DT","Aye aye","Ozma","12354123412356F",4,7
+"1339","DT","Aye aye","Ozma","121451245623F",4,8
+"1340","DT","Dwarf Lemur","Auklet","45616123F",1,1
+"1341","DT","Dwarf Lemur","Auklet","1245124346F",1,2
+"1342","DT","Dwarf Lemur","Auklet","214534216F",1,3
+"1343","DT","Dwarf Lemur","Auklet","621621453F",2,4
+"1344","DT","Dwarf Lemur","Auklet","62161212345F",2,5
+"1345","DT","Dwarf Lemur","Auklet","212143416232145F",2,6
+"1346","DT","Dwarf Lemur","Auklet","1234543216F",2,7
+"1347","DT","Dwarf Lemur","Auklet","61254561245163F",2,8
+"1348","DT","Dwarf Lemur","Auklet","43541216F",3,9
+"1349","DT","Dwarf Lemur","Auklet","1354216F",3,10
+"1350","DT","Dwarf Lemur","Auklet","12145121643F",3,11
+"1351","DT","Dwarf Lemur","Auklet","216541216121653F",3,12
+"1352","DT","Dwarf Lemur","Auklet","12454216543F",3,13
+"1353","DT","Dwarf Lemur","Auklet","612164543F",3,14
+"1354","DT","Dwarf Lemur","Auklet","6124342165F",3,15
+"1355","DT","Dwarf Lemur","Auklet","61216534F",4,16
+"1356","DT","Dwarf Lemur","Auklet","61215421653F",4,17
+"1357","DT","Dwarf Lemur","Auklet","61216543F",4,18
+"1358","DT","Dwarf Lemur","Auklet","6121453F",4,19
+"1359","DT","Dwarf Lemur","Auklet","61216543F",4,20
+"1360","DT","Dwarf Lemur","Auklet","6121543F",4,21
+"1361","DT","Dwarf Lemur","Auklet","61216543F",4,22
+"1362","DT","Dwarf Lemur","Auklet","612453F",4,23
+"1363","DT","Dwarf Lemur","Auklet","6124543F",4,24
+"1364","DT","Dwarf Lemur","Osprey","4535612F",1,1
+"1365","DT","Dwarf Lemur","Osprey","216543F",1,2
+"1366","DT","Dwarf Lemur","Osprey","121545612453F",1,3
+"1367","DT","Dwarf Lemur","Osprey","6154321416123435F",1,4
+"1368","DT","Dwarf Lemur","Osprey","161453412F",1,5
+"1369","DT","Dwarf Lemur","Osprey","1214145126543F",1,6
+"1370","DT","Dwarf Lemur","Osprey","21654121612453F",1,7
+"1371","DT","Dwarf Lemur","Osprey","1216453F",1,8
+"1372","DT","Dwarf Lemur","Osprey","12161216542165453F",1,9
+"1373","DT","Dwarf Lemur","Osprey","12165421653F",2,10
+"1374","DT","Dwarf Lemur","Osprey","12165321654F",2,11
+"1375","DT","Dwarf Lemur","Osprey","61214345F",2,12
+"1376","DT","Dwarf Lemur","Osprey","12161216212354F",2,13
+"1377","DT","Dwarf Lemur","Osprey","12435126F",2,14
+"1378","DT","Dwarf Lemur","Osprey","1216541243F",2,15
+"1379","DT","Dwarf Lemur","Osprey","1216541243F",2,16
+"1380","DT","Dwarf Lemur","Osprey","6121654543F",2,17
+"1381","DT","Dwarf Lemur","Osprey","61216542121653F",2,18
+"1382","DT","Dwarf Lemur","Osprey","126543F",2,19
+"1383","DT","Dwarf Lemur","Osprey","1216534F",3,20
+"1384","DT","Dwarf Lemur","Osprey","6161216543F",3,21
+"1385","DT","Dwarf Lemur","Osprey","6121216534F",3,22
+"1386","DT","Dwarf Lemur","Osprey","61216543F",3,23
+"1387","DT","Dwarf Lemur","Osprey","645421653F",3,24
+"1388","DT","Dwarf Lemur","Osprey","6124345F",3,25
+"1389","DT","Dwarf Lemur","Osprey","612453F",3,26
+"1390","DT","Dwarf Lemur","Osprey","61216534F",3,27
+"1391","DT","Dwarf Lemur","Osprey","61216534F",3,28
+"1392","DT","Dwarf Lemur","Osprey","612435F",3,29
+"1393","DT","Dwarf Lemur","Quetzal","24546531F",1,1
+"1394","DT","Dwarf Lemur","Quetzal","321232456F",1,2
+"1395","DT","Dwarf Lemur","Quetzal","2145415421616123F",1,3
+"1396","DT","Dwarf Lemur","Quetzal","6121654123F",1,4
+"1397","DT","Dwarf Lemur","Quetzal","61612164345F",1,5
+"1398","DT","Dwarf Lemur","Quetzal","345412321516F",2,6
+"1399","DT","Dwarf Lemur","Quetzal","65164345612F",2,7
+"1400","DT","Dwarf Lemur","Quetzal","21454514216123F",2,8
+"1401","DT","Dwarf Lemur","Quetzal","43216165F",2,9
+"1402","DT","Dwarf Lemur","Quetzal","235143216F",2,10
+"1403","DT","Dwarf Lemur","Quetzal","612345F",2,11
+"1404","DT","Dwarf Lemur","Quetzal","612145416165643F",2,12
+"1405","DT","Dwarf Lemur","Quetzal","612354F",2,13
+"1406","DT","Dwarf Lemur","Quetzal","61234345F",2,14
+"1407","DT","Dwarf Lemur","Quetzal","612321435F",2,15
+"1408","DT","Dwarf Lemur","Quetzal","61232154F",3,16
+"1409","DT","Dwarf Lemur","Quetzal","6123415F",3,17
+"1410","DT","Dwarf Lemur","Quetzal","612345F",3,18
+"1411","DT","Dwarf Lemur","Quetzal","6123214345F",3,19
+"1412","DT","Dwarf Lemur","Quetzal","21243456F",3,20
+"1413","DT","Dwarf Lemur","Quetzal","612143215F",3,21
+"1414","DT","Dwarf Lemur","Quetzal","6123212132612345F",3,22
+"1415","DT","Dwarf Lemur","Quetzal","6121612345F",3,23
+"1416","DT","Dwarf Lemur","Quetzal","612143215F",3,24
+"1417","DT","Dwarf Lemur","Quetzal","612345F",3,25
+"1418","DT","Dwarf Lemur","Tanager","6126345F",1,1
+"1419","DT","Dwarf Lemur","Tanager","65412543F",1,2
+"1420","DT","Dwarf Lemur","Tanager","123456F",1,3
+"1421","DT","Dwarf Lemur","Tanager","612354F",1,4
+"1422","DT","Dwarf Lemur","Tanager","6124345F",1,5
+"1423","DT","Dwarf Lemur","Tanager","6121654165416123F",2,6
+"1424","DT","Dwarf Lemur","Tanager","6124342165F",2,7
+"1425","DT","Dwarf Lemur","Tanager","4216424561243F",2,8
+"1426","DT","Dwarf Lemur","Tanager","61342165F",2,9
+"1427","DT","Dwarf Lemur","Tanager","12165416143F",2,10
+"1428","DT","Dwarf Lemur","Tanager","612454216543F",2,11
+"1429","DT","Dwarf Lemur","Tanager","612456123F",2,12
+"1430","DT","Dwarf Lemur","Tanager","612451243F",2,13
+"1431","DT","Dwarf Lemur","Tanager","6124542161243F",2,14
+"1432","DT","Dwarf Lemur","Tanager","6124165421653F",2,15
+"1433","DT","Dwarf Lemur","Tanager","612456543F",3,16
+"1434","DT","Dwarf Lemur","Tanager","6124345F",3,17
+"1435","DT","Dwarf Lemur","Tanager","6124345F",3,18
+"1436","DT","Dwarf Lemur","Tanager","12423412161245F",3,19
+"1437","DT","Dwarf Lemur","Tanager","61216514563F",3,20
+"1438","DT","Dwarf Lemur","Tanager","1245141653F",3,21
+"1439","DT","Dwarf Lemur","Tanager","612451612453F",3,22
+"1440","DT","Dwarf Lemur","Tanager","6124345F",3,23
+"1441","DT","Dwarf Lemur","Tanager","6124561243F",3,24
+"1442","DT","Dwarf Lemur","Tanager","612453F",3,25
+"1443","DT","Dwarf Lemur","Tottenham","34123265F",1,1
+"1444","DT","Dwarf Lemur","Tottenham","21612456242454543F",1,2
+"1445","DT","Dwarf Lemur","Tottenham","1435124535123216F",1,3
+"1446","DT","Dwarf Lemur","Tottenham","256253561231624F",1,4
+"1447","DT","Dwarf Lemur","Tottenham","12656143F",2,5
+"1448","DT","Dwarf Lemur","Tottenham","1214512462456163F",2,6
+"1449","DT","Dwarf Lemur","Tottenham","12412456123F",2,7
+"1450","DT","Dwarf Lemur","Tottenham","353453216F",2,8
+"1451","DT","Dwarf Lemur","Tottenham","521612463F",2,9
+"1452","DT","Dwarf Lemur","Tottenham","62434216232162465F",3,10
+"1453","DT","Dwarf Lemur","Tottenham","623561235613614F",3,11
+"1454","DT","Dwarf Lemur","Tottenham","6123435F",3,12
+"1455","DT","Dwarf Lemur","Tottenham","61431562F",3,13
+"1456","DT","Dwarf Lemur","Tottenham","64561245623F",3,14
+"1457","DT","Dwarf Lemur","Tottenham","12342456F",3,15
+"1458","DT","Dwarf Lemur","Tottenham","61245612161216561245123F",3,16
+"1459","DT","Dwarf Lemur","Tottenham","6124612345F",3,17
+"1460","DT","Dwarf Lemur","Tottenham","61235612164F",3,18
+"1461","DT","Dwarf Lemur","Tottenham","612432165F",3,19
+"1462","DT","Dwarf Lemur","Tottenham","6124543F",4,20
+"1463","DT","Dwarf Lemur","Tottenham","612354F",4,21
+"1464","DT","Dwarf Lemur","Tottenham","216543F",4,22
+"1465","DT","Dwarf Lemur","Tottenham","6124232562362654F",4,23
+"1466","DT","Dwarf Lemur","Tottenham","21216546121624123F",4,24
+"1467","DT","Dwarf Lemur","Tottenham","21621342165F",4,25
+"1468","DT","Dwarf Lemur","Tottenham","23561234216235124F",4,26
+"1469","DT","Dwarf Lemur","Tottenham","612321654F",4,27
+"1470","DT","Dwarf Lemur","Tottenham","26321654F",4,28
+"1471","DT","Dwarf Lemur","Tottenham","612356124F",4,29
+"1472","DT","Dwarf Lemur","Towhee","35441612143126164165F",1,1
+"1473","DT","Dwarf Lemur","Towhee","1234165F",1,2
+"1474","DT","Dwarf Lemur","Towhee","612456126543F",1,3
+"1475","DT","Dwarf Lemur","Towhee","612453F",1,4
+"1476","DT","Dwarf Lemur","Towhee","612124541656153F",1,5
+"1477","DT","Dwarf Lemur","Towhee","612453F",1,6
+"1478","DT","Dwarf Lemur","Towhee","613451612F",1,7
+"1479","DT","Dwarf Lemur","Towhee","612434165F",1,8
+"1480","DT","Dwarf Lemur","Towhee","6124516123F",1,9
+"1481","DT","Dwarf Lemur","Towhee","121612453F",1,10
+"1482","DT","Dwarf Lemur","Towhee","612451653F",2,11
+"1483","DT","Dwarf Lemur","Towhee","6121543F",2,12
+"1484","DT","Dwarf Lemur","Towhee","61216543F",2,13
+"1485","DT","Dwarf Lemur","Towhee","6121543F",2,14
+"1486","DT","Dwarf Lemur","Towhee","1234545426F",2,15
+"1487","DT","Dwarf Lemur","Towhee","6121453F",2,16
+"1488","DT","Dwarf Lemur","Towhee","612453F",2,17
+"1489","DT","Dwarf Lemur","Towhee","612453F",2,18
+"1490","DT","Dwarf Lemur","Towhee","612345F",2,19
+"1491","DT","Dwarf Lemur","Towhee","612453F",2,20
+"1492","DT","Dwarf Lemur","Towhee","65412653F",3,21
+"1493","DT","Dwarf Lemur","Towhee","612453F",3,22
+"1494","DT","Dwarf Lemur","Towhee","612434165F",3,23
+"1495","DT","Dwarf Lemur","Towhee","612456123F",3,24
+"1496","DT","Dwarf Lemur","Towhee","612453F",3,25
+"1497","DT","Dwarf Lemur","Towhee","612453F",3,26
+"1498","DT","Dwarf Lemur","Towhee","612345F",3,27
+"1499","DT","Dwarf Lemur","Towhee","612354F",3,28
+"1500","DT","Dwarf Lemur","Towhee","612453F",3,29
+"1501","DT","Dwarf Lemur","Towhee","612453F",3,30
+"1502","DT","Mouse Lemur","BB","212143265F",1,1
+"1503","DT","Mouse Lemur","BB","356145154512F",1,2
+"1504","DT","Mouse Lemur","BB","216534F",1,3
+"1505","DT","Mouse Lemur","BB","6234561232654265F",1,4
+"1506","DT","Mouse Lemur","BB","2621542623F",1,5
+"1507","DT","Mouse Lemur","BB","354216F",1,6
+"1508","DT","Mouse Lemur","BB","1241614543F",1,7
+"1509","DT","Mouse Lemur","BB","21654265123F",1,8
+"1510","DT","Mouse Lemur","BB","61265423262621654F",1,9
+"1511","DT","Mouse Lemur","BB","24161432165F",2,10
+"1512","DT","Mouse Lemur","BB","42651253456F",2,11
+"1513","DT","Mouse Lemur","BB","356245654321F",2,12
+"1514","DT","Mouse Lemur","BB","523515412426F",2,13
+"1515","DT","Mouse Lemur","BB","23161243245F",2,14
+"1516","DT","Mouse Lemur","BB","345612F",2,15
+"1517","DT","Mouse Lemur","BB","21543416F",2,16
+"1518","DT","Mouse Lemur","BB","61235612654F",2,17
+"1519","DT","Mouse Lemur","BB","62456156526143F",2,18
+"1520","DT","Mouse Lemur","BB","654316545612F",2,19
+"1521","DT","Mouse Lemur","OL","12623535653453265324F",1,1
+"1522","DT","Mouse Lemur","OL","56235621356235356235654216532465321F",1,2
+"1523","DT","Mouse Lemur","OL","421434526235F",1,3
+"1524","DT","Mouse Lemur","OL","5624532653264321F",1,4
+"1525","DT","Mouse Lemur","OL","53261235624F",1,5
+"1526","DT","Mouse Lemur","OL","54321215346F",1,6
+"1527","DT","Mouse Lemur","OL","5612456265621434F",1,7
+"1528","DT","Mouse Lemur","OL","65435612F",1,8
+"1529","DT","Mouse Lemur","OL","3261254F",2,9
+"1530","DT","Mouse Lemur","OL","32142165F",2,10
+"1531","DT","Mouse Lemur","OL","54546253214356F",2,11
+"1532","DT","Mouse Lemur","OL","61456123F",2,12
+"1533","DT","Mouse Lemur","OL","512361435612F",2,13
+"1534","DT","Mouse Lemur","OL","3416265F",2,14
+"1535","DT","Mouse Lemur","OL","456246235462656235624561F",2,15
+"1536","DT","Mouse Lemur","CJ","35653562135356564F",1,1
+"1537","DT","Mouse Lemur","CJ","123265453261546F",1,2
+"1538","DT","Mouse Lemur","CJ","61326234562F",1,3
+"1539","DT","Mouse Lemur","CJ","26124651434643421615F",2,4
+"1540","DT","Mouse Lemur","CJ","3451612F",2,5
+"1541","DT","Mouse Lemur","CJ","2653561232165614F",2,6
+"1542","DT","Mouse Lemur","CJ","235435651F",3,7
+"1543","DT","Mouse Lemur","CJ","35654341653452F",3,8
+"1544","DT","Mouse Lemur","CJ","53216564F",3,9
+"1545","DT","Mouse Lemur","CJ","321654F",3,10
+"1546","DT","Mouse Lemur","SS","34612356265323245612F",1,1
+"1547","DT","Mouse Lemur","SS","4321265F",1,2
+"1548","DT","Mouse Lemur","SS","4543216F",1,3
+"1549","DT","Mouse Lemur","SS","1612453F",1,4
+"1550","DT","Mouse Lemur","SS","351216534F",1,5
+"1551","DT","Mouse Lemur","SS","5412656123F",1,6
+"1552","DT","Mouse Lemur","SS","14612456124562123F",1,7
+"1553","DT","Mouse Lemur","SS","321212354323453216F",1,8
+"1554","DT","Mouse Lemur","SS","54345126F",1,9
+"1555","DT","Mouse Lemur","SS","216534F",1,10
+"1556","DT","Mouse Lemur","SS","121621234125F",1,11
+"1557","DT","Mouse Lemur","SS","34541216F",2,12
+"1558","DT","Mouse Lemur","SS","3512121614F",2,13
+"1559","DT","Mouse Lemur","SS","3541216F",2,14
+"1560","DT","Mouse Lemur","SS","216124345F",2,15
+"1561","DT","Mouse Lemur","SS","216124512653F",2,16
+"1562","DT","Mouse Lemur","SS","1216216543F",2,17
+"1563","DT","Mouse Lemur","SS","534216F",2,18
+"1564","DT","Mouse Lemur","DK","345612F",1,1
+"1565","DT","Mouse Lemur","DK","216513F",1,2
+"1566","DT","Mouse Lemur","DK","4561243F",1,3
+"1567","DT","Mouse Lemur","DK","1216543F",1,4
+"1568","DT","Mouse Lemur","DK","214345124534126F",1,5
+"1569","DT","Mouse Lemur","DK","342165F",1,6
+"1570","DT","Mouse Lemur","DK","3541216F",2,7
+"1571","DT","Mouse Lemur","DK","1214356F",2,8
+"1572","DT","Mouse Lemur","DK","2165321654F",2,9
+"1573","DT","Mouse Lemur","DK","451263F",2,10
+"1574","DT","Mouse Lemur","DK","216543F",3,11
+"1575","DT","Mouse Lemur","DK","4563212F",3,12
+"1576","DT","Mouse Lemur","DK","2165421653F",3,13
+"1577","DT","Mouse Lemur","DK","2162354F",3,14
+"1578","DT","Mouse Lemur","DK","412656123F",3,15
+"1579","DT","Mouse Lemur","DK","21454263F",3,16
+"1580","DT","Mouse Lemur","LB","354535361612F",1,1
+"1581","DT","Mouse Lemur","LB","61212121216541216543F",1,2
+"1582","DT","Mouse Lemur","LB","45412161243F",1,3
+"1583","DT","Mouse Lemur","LB","345121453456F",1,4
+"1584","DT","Mouse Lemur","LB","545612165412161241216543F",1,5
+"1585","DT","Mouse Lemur","LB","21612345F",2,6
+"1586","DT","Mouse Lemur","LB","12161245456214123F",2,7
+"1587","DT","Mouse Lemur","LB","6121565412165654164656416543F",2,8
+"1588","DT","Mouse Lemur","LB","61245612165412612426546512154653F",2,9
+"1589","DT","Mouse Lemur","LB","6124561243F",2,10
+"1590","DT","Mouse Lemur","LB","123216232154F",2,11
+"1591","DT","Mouse Lemur","LB","561215456124512156561453F",2,12
+"1592","DT","Mouse Lemur","LB","354165612F",2,13
+"1593","DT","Mouse Lemur","LB","126121456123F",2,14

@@ -1,4 +1,4 @@
-setwd("C:/Users/avining/ownCloud/Alexanders_Dissertation/5. The Travelling Frugivore")
+setwd("C:/Users/avining/Documents/Manuscripts/Do Primates Trapline")
 
 source("./CODE/seperateTrials.R")
 source("./CODE/DET_calculations.R")

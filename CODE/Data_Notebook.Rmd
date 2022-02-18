@@ -4,12 +4,12 @@ date: "10/14/2021"
 output: pdf_document
 ---
 
-In the following code, we investigate species level differences in learning rates of four species of primates. The task the primates are learning is to visit all locations within a local array shaped like a double trapezoid, a pentagon, and a Z. We model fit a model of the total distance an individual animal travels before visiting all locations relative to the number of trials that individual has undergone, the species of the individual, and the individuals own initial performance and learning rate. Because we expect learning curves to follow a power-law function, we log-log transform the distance traveled and trial number. Prior to running this analysis, the script "Traplining_Data_Processing_Script.R" was run to prepare the data. Not all of the descriptive statistics calculated in this script were ultimately used. This script is also where simulations were run.
+In the following code, we investigate species level differences in learning rates of four species of primates. The task the primates are learning is to visit all locations within  local arrays shaped like a double trapezoid, a pentagon, and a Z. We model fit a model of the total distance an individual animal travels before visiting all locations relative to the number of trials that individual has undergone, the species of the individual, and the individual's own initial performance and learning rate. Because we expect learning curves to follow a power-law function, we log-log transform the distance traveled and trial number. Prior to running this analysis, the script "Traplining_Data_Processing_Script.R" was run to prepare the data. For each array, we also used simulations of agents moving between locations in identical arrays according to an iterative reinforcement algorithm, and compared the results of simulations in each array to the corresponding primate data. The results of this analysis are described in the manuscript "Do primates really trapline? Mild recursion and evidence for variable cognitive mechanisms in five species". 
 
 First, we load the data and conduct log transformations
 
 ``` {r setup, message = FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 setwd("C:/Users/avining/Documents/Manuscripts/Do Primates Trapline")
 
 #enable easy changes in text size, for tidy LaTeX in pdf
@@ -39,6 +39,7 @@ Then, we analyze the results from each array separately, starting with the Doubl
 # Double Trapezoid (DT) Analysis
 
 We begin by visualizing the data and perparing for analysis in STAN
+
 ```{r DT_setup}
 #remove simulation data, data from arrays other than Double Trapezoid, and any individuals that completed fewer than 5 trials
 DT_data <- data_cleaned %>% filter(Source == "Experimental", Array == "DT", max(Trial) >= 5) 
@@ -58,6 +59,7 @@ stan_data <- list(N = nrow(DT_data),
                   id = as.numeric(DT_data$ID),
                   sp = as.numeric(DT_data$Species))
 ```
+
 
 In the above plot we see the log-log scaled data through which we will attempt a linear fit (analogous to a power function fit through the raw data). They do appear to show decreasing trends in all species but the vervet, which exhibits shorter distances traveled on initial trials. To investigate these trends, we fit the data to our model described in the manuscript "Do primates really trapline? Mild recursion and evidence for variable cognitive mechanisms in five species".
 
@@ -101,9 +103,9 @@ qqnorm(r_bar)
 
 ```
 
-From the R-hats and effective sample sizes (n_effs) in the model summary (and from the visualization of parameter estimates across each MCMC chain) we can see that the posterior distribution of models converged across the four chains, and that the parameter space was well mixed in all chains. In pair plots of the model parameters, we can see that posterior distributions of all parameters appear normal, and there are no patterns to suggest the model was not identifiable. We do see high correlation among parameter estimates of the intercept and among parameter estimates of the slope. This is to be expected as we estimate both a grand mean for both parameter, and species level adjustments (normaly distributed around zero); this means that as the estimated grand mean moves around in the posterior, species level adjustments will change accordingly to bring the species level intercept estimate (grand mean plus species adjustment) close to the the true value.
+From the R-hats and effective sample sizes (n_effs) in the model summary (and from the visualization of parameter estimates across each MCMC chain) we can see that the posterior distribution of models converged across the four chains, and that the parameter space was well mixed in all chains. In pair plots of the model parameters, we can see that posterior distributions of all parameters appear normal, and there are no patterns to suggest the model was not identifiable. We do see high correlation among parameter estimates of the intercept and among parameter estimates of the slope. This is to be expected as we estimate both a grand mean for both parameters, and species level adjustments (normaly distributed around zero); this means that as the estimated grand mean moves around in the posterior, species level adjustments will change accordingly to bring the species level intercept estimate (grand mean plus species adjustment) close to the the true value.
 
-Plots of the residuals attest to the good fit between our statistical model and the structure of the data. Across species, trial nunmber, and outcomes (distance travelled), residuals show no visible trend and remain evenly distributed.
+Plots of the residuals attest to the good fit between our statistical model and the structure of the data. Across species, trial number, and outcomes (distance traveled), residuals show no visible trend and remain evenly distributed.
 
 ## Model Interpretation
 
@@ -344,7 +346,7 @@ sum(posteriors_DT$b_species[,4] <=0)/length(posteriors_DT$b_species[,4])
 ```
 
 
-## Pentagon Array Analysis
+# Pentagon Array Analysis
 
 We analyze data from the Pentagon Array, which was only completed by vervets, in the same manner as the Double Trapezoid
 
@@ -943,6 +945,8 @@ sum(posteriors_Zed$b_species[,1] <= 0)/length(posteriors_Zed$b_species[,1])
 # Simulation analysis, Double Trapezoid
 
 We start by analyzing simulations from the Double Trapezoid array, in which the most species of primates were tested and thus offers the most potential for comparative analysis.
+
+In our simulation model, an agent first moved between array locations using a predetermined transition matrix. Agents, like our primate subjects, completed a trial once all locations had been visited. Upon completing a trial, the agent compared the total distance traveled in that trial to a stored (remembered) shortest-distance-to-trial-completion. If the current trial was shorter than that known previously, the agent changed its transition matrix by multiplying the probability of all transitions that occurred in the current trial by a reinforcement factor (e.g., 1.2), then renormalized the matrix so that all transition probabilities from a given location sum to 1. The agent repeated this process until 120 trials were completed.
 
 
 ```{r DT_simulations_analysis_setup, size="footnotesize"}
@@ -1941,7 +1945,7 @@ print(posteriors_plot)
 dev.off()
 ```
 
-Second, we look at the posterior regressions for the empirical data.
+Second, we look at the posterior regressions for the empirical data (See Figure 2, manuscript)
 
 ```{r regression_plots}
 #Figure for Manuscript
@@ -2023,10 +2027,10 @@ text(x = -1.7, y = 4.6, labels = "Z-Array", cex = 6, col = "grey30")
 
 dev.off()
 ```
-And then the regression plots for the simulations
+And then the regression plots for the simulations (See Supp Figure 1, in DOCS)
 
 ```{r plot_simulation regressions}
-tiff("../Docs/Figure 4_Posterior_Regressions_Simulations.tif", width = 1600, height = 1200)
+tiff("../Docs/Supp_Figure_1_Posterior_Regressions_Simulations.tif", width = 1600, height = 1200)
 par(mfrow = c(3,3),
     mar = c(6,7,10,2))
 
